@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, WWE Smackdown 01.02.2015
+rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.2015.01.01.WS.PDTV.x264-RKOFAN1990.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/weeklies/WWE.Friday.Night.Smackdown.2015.01.01.WS.PDTV.x264-RKOFAN1990.mp4
+
 #EXTINF:-1, WWE RAW 12.29.2014
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Monday.Night.Raw.29th.Dec.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/weeklies/WWE.Monday.Night.Raw.29th.Dec.2014.HDTV.x264-Sir.Paul.mp4
 

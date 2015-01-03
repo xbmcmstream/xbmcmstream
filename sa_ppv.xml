@@ -1,23 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1, HBO Boxing@ 10PM ET [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, UFC 181 FOX Sports 1 Prelims Only* [USA SD]
-rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
-
-#EXTINF:-1, UFC 181: Hendricks vs. Lawler 2 Full Card [USA PPV CDN HD]
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, UFC 181: Hendricks vs. Lawler 2 Full Card [CDN SD]
-rtmp://skystreams.info:2195/live3 playpath=elite14 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite14.php live=true timeout=20
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN SD]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, UFC 181: Hendricks vs. Lawler 2 Full Card [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA HD]
+rtmp://w5.vmnode.pw:2195/live3 playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
 
-#EXTINF:-1, UFC 181: Hendricks vs. Lawler 2 Full Card [EU BT1 HD]
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA SD]
+rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU HD]
 rtmp://w6.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
-#EXTINF:-1, UFC 181: Hendricks vs. Lawler 2 Full Card [EU SD]
-rtmp://w5.vmnode.pw:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
+#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU SD]
+rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
 
