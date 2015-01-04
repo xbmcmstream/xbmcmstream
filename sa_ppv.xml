@@ -1,20 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1, WrestlingKingdom PPV @ 2am et [EU HD]
+http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+
 #EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
 #EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN SD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
-#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA HD]
+#EXTINF:-1, Server Crashed* [USA HD]
 rtmp://w5.vmnode.pw:2195/live3 playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
+
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA-2 1080p]
+rtmp://w1.vmnode.pw:2195/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA-3 1080p]
+rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+
+#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU 1080p]
+rtmp://w6.vmnode.pw:2195/live3 playpath=elite32 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite32.php live=true timeout=20
 
 #EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA SD]
 rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
 #EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
 
 #EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU SD]
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU-2 SD]
 rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
 

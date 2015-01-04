@@ -6,89 +6,29 @@ rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, SkyS3 Darts [CDN HQ]
 http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
 
-#EXTINF:-1, SkyS1: Rugby Union [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+#EXTINF:-1, NFL PLAYOFFS [CDN 720p]
+http://hls35.livestreamingcdn.com/livecdn625_10/myStream.sdp/playlist
 
-#EXTINF:-1, Sky Sports 1 Temporary Backup [EU HD]
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
-
-#EXTINF:-1, Sky News Temporary Backup [EU HD]
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, BT Sports 2 Saturday [EU HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
-
-#EXTINF:-1, Scottish Championship : Hearts v Hibernian [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
-
-#EXTINF:-1, La Liga: Atlético Madrid vs Levante [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, FA Cup: Tranmere Rovers vs Swansea City [USA]
+#EXTINF:-1, NFL PLAYOFFS [USA 540p]
 rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, FA Cup: Tranmere Rovers vs Swansea City [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+#EXTINF:-1, NFL PLAYOFFS [EU 1080p]
+rtmp://w8.vmnode.pw:2195/live3 playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
 
-#EXTINF:-1, FA Cup: Tranmere Rovers vs Swansea City [CDN-2]
+#EXTINF:-1, WrestlingKingdom PPV @ 2am et [USA HD]
+rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+
+#EXTINF:-1, WrestlingKingdom PPV @ 2am et [CDN SD]
 http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, FA Cup: Tranmere Rovers vs Swansea City [EU]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, FA Cup: West Bromwich Albion vs Gateshead [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
-
-#EXTINF:-1, FA Cup: West Bromwich Albion vs Gateshead [EU]
-rtmp://w8.vmnode.pw:2195/live3 playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Sevilla v Celta Vigo [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Elche v Villarreal [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
-
-#EXTINF:-1, 2015 Birmingham Bowl - East Carolina Pirates vs Florida Gators @ 12pm et [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NBA: New Orleans Pelicans v Houston Rockets LIVE EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
-
-#EXTINF:-1, NBA: Mavericks vs Celtics LIVE[USA SD]
-rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
-
-#EXTINF:-1, NHL: Toronto vs Winnipeg @ 7pm et [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NHL: Toronto vs Winnipeg @ 7pm et [USA SD]
-rtmp://skystreams.info/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
 
 #EXTINF:-1, NBA TV: Philadelphia @ L.A. Clippers @ 10:30pm et [USA HD]
 rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
-#EXTINF:-1, 2015 TicketCity Cactus Bowl - Washington VS. Oklahoma State @ 10pm et [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN HD]
+#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Replay[CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN SD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
-
-#EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [USA SD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
-
-#EXTINF:-1, BT1: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [EU SD]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, ESPN 3 NCAAF [USA SD]
-rtmp://skystreams.info:1935/live playpath=espn3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
+#EXTINF:-1, USA PPV: UFC 182 FS1 Post Show [USA HD]
+rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20

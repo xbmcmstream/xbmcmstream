@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, UFC 182: Jones vs Cormier Main Card
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.182.Jones.vs.Cormier.720p.HDTV.H264-XWT/UFC.182.Jones.vs.Cormier.720p.HDTV.H264-XWT.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.182.Jones.vs.Cormier.720p.HDTV.H264-XWT/UFC.182.Jones.vs.Cormier.720p.HDTV.H264-XWT.mp4
+
+#EXTINF:-1, UFC 182: Jones vs Cormier Prelims
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.182.Prelims.Jan.3rd.2015.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.182.Prelims.Jan.3rd.2015.HDTV.x264-Sir.Paul.mp4
+
 #EXTINF:-1, HBO Hard Knocks: Falcons Episode 1 [HD 720p]
 rtmp://skystreams.info/vod playpath=mp4:/nfl/Hard.Knocks.Falcons.HBO.Ep1.ClutcHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=hardknocksfalconsep1
 
