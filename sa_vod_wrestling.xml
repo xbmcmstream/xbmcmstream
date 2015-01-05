@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, NJPW Wrestle Kingdom 9 PPV
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/NJPW.Wrestle.Kingdom.9.PPV.WEBRip.x264-jkkk.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/NJPW.Wrestle.Kingdom.9.PPV.WEBRip.x264-jkkk.mp4
+
 #EXTINF:-1, WWE Smackdown 01.02.2015
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.2015.01.01.WS.PDTV.x264-RKOFAN1990.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/weeklies/WWE.Friday.Night.Smackdown.2015.01.01.WS.PDTV.x264-RKOFAN1990.mp4
 

@@ -6,14 +6,32 @@ rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, SkyS3 Darts [CDN HQ]
 http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
 
-#EXTINF:-1, NFL PLAYOFFS [CDN 720p]
-http://hls35.livestreamingcdn.com/livecdn625_10/myStream.sdp/playlist
+#EXTINF:-1, Sky Sports 5 La Liga [EU HD]
+rtmp://w2.vmnode.pw:2195/live3 playpath=elite23 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite23.php live=true timeout=20
 
-#EXTINF:-1, NFL PLAYOFFS [USA 540p]
+#EXTINF:-1, FA Cup Soccer | Arsenal FC vs. Hull City AFC [EU HD]
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+
+#EXTINF:-1, FA Cup Soccer | Arsenal FC vs. Hull City AFC [USA HD]
 rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
+#EXTINF:-1, FA Cup Soccer | Arsenal FC vs. Hull City AFC [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+
+#EXTINF:-1, FA Cup Soccer | Arsenal FC vs. Hull City AFC [EU SD]
+rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
+
+#EXTINF:-1, FA Cup Soccer | Arsenal FC vs. Hull City AFC [EU-2 SD]
+rtmp://w4.vmnode.pw:2195/live3 playpath=elite25 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite25.php live=true timeout=20
+
+#EXTINF:-1, NFL PLAYOFFS [CDN 720p]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+
+#EXTINF:-1, NFL PLAYOFFS [USA 540p]
+rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
 #EXTINF:-1, NFL PLAYOFFS [EU 1080p]
-rtmp://w8.vmnode.pw:2195/live3 playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
+rtmp://w2.vmnode.pw:2195/live3 playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
 #EXTINF:-1, WrestlingKingdom PPV @ 2am et [USA HD]
 rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
