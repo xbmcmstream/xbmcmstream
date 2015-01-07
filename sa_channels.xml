@@ -1,10 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1, SkyS3 Darts [EU-1 HD]
+#EXTINF:-1, Sky Sports 3 [USA HD]
 rtmp://w5.vmnode.pw:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
 
-#EXTINF:-1, NBA TV: Oklahoma City @ Golden State @ 10:30 pm [USA HD]
+#EXTINF:-1, Copa Del Rey: Celta Vigo vs Athletic Bilbao [USA 1080p]
+rtmp://w5.vmnode.pw:2195/live3 playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+
+#EXTINF:-1, Copa Del Rey: Malaga vs Levante [USA 1080p]
+rtmp://w5.vmnode.pw:2195/live3 playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+
+#EXTINF:-1, Serie A : Udinese v Roma [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, Serie A : AC Milan v Sassuolo [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, Serie A : Cesena v Napoli [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, Serie A : Juventus v Inter Milan [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, BT1: FA Cup 3rd Round: Everton v West Ham [USA 1080p]
+rtmp://w5.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+
+#EXTINF:-1, FA Cup 3rd Round: Everton v West Ham [USA HD]
+rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, FA Cup 3rd Round: Everton v West Ham [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+
+#EXTINF:-1, FA Cup 3rd Round: Everton v West Ham [EU SD]
+rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
+
+#EXTINF:-1, USA/Canada Sports Mix #1: NHL NETWORK [USA HD]
+rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+
+#EXTINF:-1, USA/Canada Sports Mix #2: NHL: Sharks vs Wild @ 8pm et [USA HD]
+rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, NCAA : South Florida Bulls v Connecticut Huskies [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, NCAA : South Florida Bulls v Connecticut Huskies [USA HD]
+rtmp://w5.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+
+#EXTINF:-1, NCAA : Iowa State Cyclones v Oklahoma State Cowboys [USA HD]
+rtmp://w5.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+
+#EXTINF:-1, NCAA : Iowa State Cyclones v Oklahoma State Cowboys [EU SD]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+
+#EXTINF:-1, NBA TV: Phoenix @ Milwaukee @ 8pm et [USA HD]
 rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+
+#EXTINF:-1, NBA Detroit Pistons @ San Antonio Spurs [USA HQ]
+rtmp://skystreams.info/live playpath=t1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t1 live=true timeout=20
 
 #EXTINF:-1, NFL PLAYOFFS [CDN 720p]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
