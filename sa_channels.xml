@@ -54,26 +54,14 @@ rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/j
 #EXTINF:-1, NBA TV: Phoenix @ Milwaukee @ 8pm et [USA HD]
 rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
-#EXTINF:-1, NBA: Houston Rockets @ Cleveland Cavaliers[USA HQ]
+#EXTINF:-1, NBA: Miami Heat @ Portland Trail Blazers[USA HQ]
 rtmp://skystreams.info/live playpath=t1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t1 live=true timeout=20
 
-#EXTINF:-1, NBA: Oklahoma City Thunder @ Sacramento Kings[USA HQ]
+#EXTINF:-1, NBA: Charlotte Hornets @ Toronto Raptors[USA HQ]
 rtmp://skystreams.info/live playpath=t1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t1 live=true timeout=20
 
-#EXTINF:-1, NBA: Memphis Grizzlies @ Atlanta Hawks[USA HQ]
+#EXTINF:-1, NBA: Houston Rockets @ New York Knicks[USA HQ]
 rtmp://skystreams.info/live playpath=t2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t2 live=true timeout=20
-
-#EXTINF:-1, NBA: Indiana Pacers @ Golden State Warriors[USA HQ]
-rtmp://skystreams.info/live playpath=t2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t2 live=true timeout=20
-
-#EXTINF:-1, NBA: Utah Jazz @ Chicago Bulls on Channel[USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t3 live=true timeout=20
-
-#EXTINF:-1, NBA: Los Angeles Lakers @ Los Angeles Clippers[USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t3 live=true timeout=20
-
-#EXTINF:-1, NBA : New York Knicks v Houston Rockets[USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t4 live=true timeout=20
 
 #EXTINF:-1, NFL PLAYOFFS [CDN 720p]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
