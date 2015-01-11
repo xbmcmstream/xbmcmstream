@@ -3,122 +3,56 @@
 #EXTINF:-1, Hyundai Golf Tourney [USA HD]
 rtmp://w1.vmnode.pw:2195/live playpath=golf swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
-#EXTINF:-1, AFC Asian Cup Group Stage : South Korea v Oman [EU]
-rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+#EXTINF:-1, Channel 5: Sky Sports 1 [USA HD]
+rtmp://w5.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
-#EXTINF:-1, AFC Asian Cup Group Stage : Uzbekistan v North Korea [EU]
-rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+#EXTINF:-1, Channel 6: Sky Sports 5 [USA HD]
+rtmp://w5.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
-#EXTINF:-1, Serie A : Torino v AC Milan [EU]
-rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+#EXTINF:-1, Channel 7: BT Sports 1 [USA HD]
+rtmp://w5.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Sunderland v Liverpool [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Sunderland v Liverpool [USA HD]
-rtmp://w1.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Sunderland v Liverpool [USA HQ]
-rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Sunderland v Liverpool [EU HD]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Bromwich Albion vs Hull City [EU HD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Bromwich Albion vs Hull City [USA SD]
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Queens Park Rangers [EU HD]
-rtmp://w4.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Leicester City vs Aston Villa [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Leicester City vs Aston Villa [EU SD]
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Chelsea v Newcastle United [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Chelsea v Newcastle United [USA HD]
-rtmp://w1.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Chelsea v Newcastle United [EU SD]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Swansea City vs West Ham United [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Swansea City vs West Ham United [EU SD]
-rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Everton v Manchester City [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_10/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Everton v Manchester City [EU SD]
-rtmp://w6.vmnode.pw:1935/live playpath=elite31 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite31.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Crystal Palace vs Tottenham Hotspur [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Crystal Palace vs Tottenham Hotspur [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Crystal Palace vs Tottenham Hotspur [EU HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Crystal Palace vs Tottenham Hotspur [EU SD]
-rtmp://w2.vmnode.pw:2195/live3 playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
+#EXTINF:-1, Channel 8: Sky Sports News [USA HD]
+rtmp://w5.vmnode.pw:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
 
 #EXTINF:-1, La Liga: Real Madrid v Espanyol [USA HD]
 rtmp://w1.vmnode.pw:2195/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, La Liga : Malaga vs Villarreal [USA-2 HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
+rtmp://w5.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
 #EXTINF:-1, La Liga : Celta Vigo v Valencia [USA-2 HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
+rtmp://w5.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
+
+#EXTINF:-1, NBA: Mavericks at Los Angeles Clippers [EU HD]
+rtmp://w5.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
+
+#EXTINF:-1, NBA: Mavericks at Los Angeles Clippers [USA SD]
+rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+
+#EXTINF:-1, NHL: Montreal vs Pittsburgh @ 7pm et [CDN]
+http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
+
+#EXTINF:-1, NBA: Boston Celtics at Toronto Raptors @ 7:30pm et [USA HD]
+rtmp://w5.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
+
+#EXTINF:-1, NBA: 76ers vs Pacers @ 730pm et [USA HQ]
+rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+
+#EXTINF:-1, NBA: Utah Jazz at Houston Rockets @ 8pm et [EU HD]
+rtmp://w5.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
 
 #EXTINF:-1, NFL Playoffs [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, 2015 Harlem Globetrotters - Washington Generals VS. Harlem Globetrotters @ 5:30pm et [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+#EXTINF:-1, NFL Playoffs [EU 1080p]
+rtmp://w1.vmnode.pw:2195/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, NBA: Pacers @ 76ers @ 7:30pm [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NBA: Raptors vs Celtics @ 7:30pm [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NHL: Philadelphia vs Boston @ 1pm et [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
-
-#EXTINF:-1, NHL: Montreal vs Pittsburgh @ 7pm et [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+#EXTINF:-1, NFL Playoffs [EU SD]
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
 #EXTINF:-1, NHL: Calgary vs Vancouver @ 10pm et [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
-
-#EXTINF:-1, USA/Canada Sports Mix #1: NHL NETWORK [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
-
-#EXTINF:-1, USA/Canada Sports Mix #2: NBA: Cavs vs Warriors LIVE [USA HD]
-rtmp://w1.vmnode.pw:2195/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite2.php live=true timeout=20
-
-#EXTINF:-1, ESPN 2 Fight Night [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, ESPN 2 Fight Night [USA SQ]
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, Boxing | Throne Boxing: Dusty Hernandez Harrison vs. Tommy Rainone [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Boxing | Throne Boxing: Dusty Hernandez Harrison vs. Tommy Rainone [USA SD]
-rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+rtmp://w7.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
@@ -134,18 +68,6 @@ http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
 #EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD]
 rtmp://w1.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, Channel 5: Sky Sports 1 [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
-
-#EXTINF:-1, Channel 6: Sky Sports 5 [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
-
-#EXTINF:-1, Channel 7: BT Sports 1 [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
-
-#EXTINF:-1, Channel 8: Sky Sports News [USA HD]
-rtmp://w5.vmnode.pw:2195/live3 playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
 
 #EXTINF:-1, Channel 9: FOX Sports 1 247 [US SD]
 rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
