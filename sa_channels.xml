@@ -48,44 +48,32 @@ rtmp://w5.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwpla
 #EXTINF:-1, La Liga: Barcelona vs Atletico Madrid [EU HD]
 rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
 
-#EXTINF:-1, NBA: Miami @ Clippers @ 3:30pm et [USA 540p]
-rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+#EXTINF:-1, WWE RAW [USA 1080p]
+rtmp://w5.vmnode.pw:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
 
-#EXTINF:-1, NBA: Phoenix Suns @ Memphis Grizzlies @ 6pm et [USA 540p]
-rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+#EXTINF:-1, NCAAF Oregon vs Ohio State Championship [CDN 720p]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, NBA: Cleveland @ Sacramento @ 9pm et [USA 720p]
+#EXTINF:-1, NCAAF Oregon vs Ohio State Championship [USA SD]
+rtmp://skystreams.info:1935/live playpath=espn3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
+
+#EXTINF:-1, NHL: Tampa Bay vs Philly @ 7pm et [USA 540p]
+rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, NBA: New Orleans Pelicans @ Boston Celtics @ 7:30pm et [USA 720p]
 rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
-#EXTINF:-1, NBA: Portland @ LA Lakers 9:30pm et [EU 720p]
-rtmp://w8.vmnode.pw:1935/live playpath=elite30 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite30.php live=true timeout=20
-
-#EXTINF:-1, NFL Playoffs [CDN 720p]
-http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
-
-#EXTINF:-1, NFL Playoffs [USA 540p]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NFL Playoffs [EU 1080p]
-rtmp://w1.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, NFL Playoffs [EU 480p]
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
-
-#EXTINF:-1, NHL: Florida vs Edmonton Live [USA SD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
-
-#EXTINF:-1, NHL: Wild vs Blackhawks @ 8pm et [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NHL: Winnipeg vs Anaheim @ 9pm et [EU HD]
-rtmp://w7.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
-
-#EXTINF:-1, NHL: Winnipeg vs Anaheim @ 9pm et [CDN]
+#EXTINF:-1, NBA: Detroit Pistons @ Toronto Raptors @ 7:30pm et [CDN HQ]
 http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
 
-#EXTINF:-1, NHL: Winnipeg vs Anaheim @ 9pm et [USA]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+#EXTINF:-1, NBA: Detroit Pistons @ Toronto Raptors @ 7:30pm et [EU HQ]
+rtmp://w7.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
+
+#EXTINF:-1, NHL: Kings vs Maple Leafs LIVE [CDN HQ]
+http://hls35.livestreamingcdn.com/livecdn625_8/myStream.sdp/playlist
+
+#EXTINF:-1, NBA: Orlando Magic @ Chicago Bulls @ 8pm et [USA HQ]
+rtmp://w1.vmnode.pw:2195/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
