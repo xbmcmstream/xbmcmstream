@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, World Series Of Fighting 17
+rtmp://skystreams.info/vod playpath=mp4:/other/World.Series.Of.Fighting.17.HDTV.x264-jkkk.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/other/World.Series.Of.Fighting.17.HDTV.x264-jkkk.mp4
+
 #EXTINF:-1, UFC 47: It's on Ortiz vs Liddell 2004 DVD
 rtmp://skystreams.info/vod playpath=mp4:/dvds/UFC.47.Its.On.Ortiz.vs.Liddel.2004.DVDRip.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/dvds/UFC.47.Its.On.Ortiz.vs.Liddel.2004.DVDRip.mp4
 

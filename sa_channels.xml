@@ -1,25 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1, NBATV: Golden State vs Houston [USA]
-rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+#EXTINF:-1, BT Sports 1 [EU HD]
+rtmp://w3.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
-#EXTINF:-1, Showtime Boxing: Stiverne vs. Wilder [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
+#EXTINF:-1, BT Sports 2 [EU HD]
+rtmp://w3.vmnode.pw:1935/live playpath=bt2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt2.php live=true timeout=20
 
-#EXTINF:-1, Showtime Boxing: Stiverne vs. Wilder [EU HD]
-rtmp://w8.vmnode.pw:1935/live playpath=elite30 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite30.php live=true timeout=20
+#EXTINF:-1, Sky Sports 1[EU HD]
+rtmp://w3.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
-#EXTINF:-1, World Series of Fighting 17 [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+#EXTINF:-1, Sky Sports 5 [EU HD]
+rtmp://w3.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
-#EXTINF:-1, NHL network (2 games) [USA HD]
+#EXTINF:-1, NFL Playoffs [USA 1080p]
+rtmp://w3.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+
+#EXTINF:-1, NFL Playoffs [CDN 720p]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+
+#EXTINF:-1, NFL Playoffs [USA 540p]
 rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Canada Hockey Night [CDN HD]
+#EXTINF:-1, NFL Playoffs [CDN 540p]
+http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
+
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver [USA 1080p]
+rtmp://w5.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
+
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver [USA-2 1080p]
+rtmp://w3.vmnode.pw:1935/live playpath=elite01 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite01.php live=true timeout=20
+
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver [USA 720p]
+rtmp://w1.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite2.php live=true timeout=20
+
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver  *Main Card Only* [CDN 540p]
 http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
 
-#EXTINF:-1, CBS Sports Network College Basketball  [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver [USA SD]
+rtmp://w5.vmnode.pw:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
+
+#EXTINF:-1, UFC Fight Night 59: McGregor vs. Siver [EU 720p]
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
@@ -37,13 +58,13 @@ http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 rtmp://w1.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
 #EXTINF:-1, Channel 5: Sky Sports 1  [USA HD]
-rtmp://w2.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
 #EXTINF:-1, Channel 6: Sky Sports 5 [USA HD]
-rtmp://w2.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
 #EXTINF:-1, Channel 7: BT Sports 1  [USA HD]
-rtmp://w2.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
 #EXTINF:-1, Channel 8: Sky Sports News  [USA HD]
 rtmp://w2.vmnode.pw:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
