@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, UFC Fight Night 59
+rtmp://skystreams.info/vod playpath=mp4:/ufc/ufc.fight.night.59.hdtv.x264-kyr.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ufc/ufc.fight.night.59.hdtv.x264-kyr.mp4
+
 #EXTINF:-1, World Series Of Fighting 17
 rtmp://skystreams.info/vod playpath=mp4:/other/World.Series.Of.Fighting.17.HDTV.x264-jkkk.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/other/World.Series.Of.Fighting.17.HDTV.x264-jkkk.mp4
 
