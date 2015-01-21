@@ -1,25 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, WWE RAW [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
+#EXTINF:-1, Sky Sports 1 Football [EU 1080p]
+rtmp://w2.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
-#EXTINF:-1, NBA: Boston Celtics @ Los Angeles Clippers [USA HQ]
+#EXTINF:-1, Sky Sports 5 Football  [EU 1080p]
+rtmp://w2.vmnode.pw:1935/live playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
+
+#EXTINF:-1, State of the Union [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+
+#EXTINF:-1, NBA: Oklahoma City Thunder @ Miami Heat [USA HQ]
 rtmp://skystreams.info/live playpath=t1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t1 live=true timeout=20
 
-#EXTINF:-1, NBA: Denver Nuggets @ Golden State Warriors [USA HQ]
+#EXTINF:-1, NBA: Oklahoma City Thunder @ Miami Heat [USA HD]
+rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+
+#EXTINF:-1, NBA: San Antonio Spurs @ Denver Nuggets[USA HQ]
 rtmp://skystreams.info/live playpath=t2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t2 live=true timeout=20
-
-#EXTINF:-1, NBA: Sacramento Kings @ Portland Trail Blazers [USA HQ]
-rtmp://skystreams.info/live playpath=t2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t2 live=true timeout=20
-
-#EXTINF:-1, NBA : Memphis Grizzlies v Dallas Mavericks [USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t3 live=true timeout=20
-
-#EXTINF:-1, NBA : Phoenix Suns v Los Angeles Lakers[USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t3 live=true timeout=20
-
-#EXTINF:-1, NBA: New Orleans Pelicans @ New York Knicks[USA HQ]
-rtmp://w5.vmnode.pw/live playpath=t4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t4 live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
