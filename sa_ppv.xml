@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, WrestlingKingdom PPV @ 2am et [EU HD]
-http://hls35.livestreamingcdn.com/livecdn625_2/myStream.sdp/playlist
+rtmp://w9.vmnode.pw:2195/live3 playpath=elite37 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite37.php live=true timeout=20
 
 #EXTINF:-1, USA PPV: UFC 182: Jones vs. Cormier Full Card @ 8PM ET [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
