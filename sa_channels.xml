@@ -4,70 +4,52 @@
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
 #EXTINF:-1, Sky Sports 1  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
 #EXTINF:-1, Sky Sports 2 [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=skys2 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys2.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=skys2 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys2.php live=true timeout=20
 
 #EXTINF:-1, BT Sports 1  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
 #EXTINF:-1, Sky Sports News  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
 
-#EXTINF:-1, NHL LIVE  [USA HD]
-rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+#EXTINF:-1, NBA Miami @ Chicago @ 1pm et [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
-#EXTINF:-1, TSN Mix: XGames [USA HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=tsnmix swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, TSN 1-5 Mix: UFC LIVE [USA HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=tsnmix swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, TSN 1-5 Mix: UFC LIVE [CDN HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=tsnmix swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, UFC Full Card[CDN 540p]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, UFC Full Card [USA 540p]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, UFC Full Card [EU HD]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, HBO Boxing: Mike Alvarado vs Brandon Rios  @ 9:45pm et [USA HD]
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, HBO Boxing: Mike Alvarado vs Brandon Rios  @ 9:45pm et [USA 540p]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, HBO Boxing: Mike Alvarado vs Brandon Rios  @ 9:45pm et [CDN 540p]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, HBO Boxing: Mike Alvarado vs Brandon Rios  @ 9:45pm et [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, HBO Boxing: Mike Alvarado vs Brandon Rios  @ 9:45pm et [EU HD]
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, BoxNatioN: Mike Alvarado vs Brandon Rios  @ 9:45pm et [EU SD]
-rtmp://w7.vmnode.pw:2195/live playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
-
-#EXTINF:-1, NBA Utah Jazz vs Brooklyn Nets [USA SD]
+#EXTINF:-1, Nba Cleveland vs Okc @ 3:30pm et {SD]
 rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
-#EXTINF:-1, NBA TV: Detroit vs Milwaukee @ 7:30 pm	[USA HD]
-rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+#EXTINF:-1, NHL All Star Game @ 5pm et [CDN  HD]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, NBA TV: Washington vs Portland @10pm et [USA HD]
-rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+#EXTINF:-1, NFL Pro Bowl  @ 8pm et  [CDN  HD]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+
+#EXTINF:-1, NBA TV: Washington @ Denver @ 8pm et [USA HD]
+rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+
+#EXTINF:-1, WWE Royal Rumble @ 8pm et [USA 720p]
+rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
+
+#EXTINF:-1, WWE Royal Rumble @ 8pm et [CDN 720p]
+http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
+
+#EXTINF:-1, WWE Royal Rumble @ 8pm et [USA 540p]
+rtmp://w3.vmnode.pw:1935/live playpath=elite43 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, WWE Royal Rumble @ 8pm et [CDN 540p]
+http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
+
+#EXTINF:-1, WWE Royal Rumble @ 8pm et [EU 1080p]
+rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
 
 #EXTINF:-1, Channel 2: USA/Canada Sports Mix #2 [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, Channel 3: NFL Network (24/7) [USA HD]
 rtmp://w5.vmnode.pw:2195/live3 playpath=nfl swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nfl.php live=true timeout=20
@@ -79,25 +61,25 @@ http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 rtmp://w1.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
 #EXTINF:-1, Channel 5: Sky Sports 1  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
 #EXTINF:-1, Channel 6: Sky Sports 5 [USA HD]
 rtmp://w8.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
 #EXTINF:-1, Channel 7: BT Sports 1  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
 #EXTINF:-1, Channel 8: Sky Sports News  [USA HD]
-rtmp://w1.vmnode.pw:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
+rtmp://skystreams.info:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
 
-#EXTINF:-1, Channel 9: TSN 1-5 Mix [USA HD]
-rtmp://w8.vmnode.pw:2195/live3 playpath=tsnmix swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+#EXTINF:-1, Channel 9: TSN 1-5 Mix [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
 #EXTINF:-1, Channel 10: FOX Sports 1 247 [US SD]
 rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
 #EXTINF:-1, Channel 11: NBA TV  [US HD]
-rtmp://192.254.65.82:1935/live playpath=nbatv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
 #EXTINF:-1, Channel 12: WWE 24/7 [US SD]
 rtmp://skystreams.info/live playpath=wwe247 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
@@ -115,5 +97,5 @@ rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/j
 rtmp://skystreams.info:1935/live playpath=espn1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
 
 #EXTINF:-1, Channel 13-B: ESPN 1 [USA HQ]
-rtmp://w1.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
