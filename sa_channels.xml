@@ -1,49 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1, **Bandwidth Issues With our 1080p UK Streams, Temporary Up**
+#EXTINF:-1, **Repairing + Adding Servers - StandBy**
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, Sky Sports 1  [USA HD]
-rtmp://skystreams.info:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+#EXTINF:-1, WWE RAW @ 8pm et [EU HD]
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
-#EXTINF:-1, Sky Sports 2 [USA HD]
-rtmp://skystreams.info:1935/live playpath=skys2 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys2.php live=true timeout=20
-
-#EXTINF:-1, BT Sports 1  [USA HD]
-rtmp://skystreams.info:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
-
-#EXTINF:-1, Sky Sports News  [USA HD]
-rtmp://skystreams.info:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
-
-#EXTINF:-1, NBA Miami @ Chicago @ 1pm et [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
-
-#EXTINF:-1, Nba Cleveland vs Okc @ 3:30pm et {SD]
-rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
-
-#EXTINF:-1, NHL All Star Game @ 5pm et [CDN  HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, NFL Pro Bowl  @ 8pm et  [CDN  HD]
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, NBA TV: Washington @ Denver @ 8pm et [USA HD]
-rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
-
-#EXTINF:-1, WWE Royal Rumble @ 8pm et [USA 720p]
+#EXTINF:-1, NBA: Philadelphia @ New Orleans @ 8pm et [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
 
-#EXTINF:-1, WWE Royal Rumble @ 8pm et [CDN 720p]
+#EXTINF:-1, TSN2: Minnesota @ Oklahoma City @ 8pm et [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
-#EXTINF:-1, WWE Royal Rumble @ 8pm et [USA 540p]
-rtmp://w3.vmnode.pw:1935/live playpath=elite43 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+#EXTINF:-1, NBATV: Minnesota @ Oklahoma City @ 8pm et [USA HD]
+rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
-#EXTINF:-1, WWE Royal Rumble @ 8pm et [CDN 540p]
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
+#EXTINF:-1, NBA: Orlando @ Memphis @ 8pm et [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
 
-#EXTINF:-1, WWE Royal Rumble @ 8pm et [EU 1080p]
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
+#EXTINF:-1, NBA: Denver @ L.A. Clippers @ 10:30pm et [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
