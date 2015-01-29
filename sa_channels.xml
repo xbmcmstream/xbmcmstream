@@ -3,50 +3,41 @@
 #EXTINF:-1, **Repairing + Adding Servers - StandBy**
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, Copa del Rey Quarter Final 2nd Leg : Atletico Madrid v Barcelona [USA HD]
-rtmp://w5.vmnode.pw:1935/live playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
+#EXTINF:-1, FS1 Friendly: Chile vs USA [US SD]
+rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
-#EXTINF:-1, Capital One Cup Semi Final 2nd Leg : Sheffield United v Tottenham Hotspur  [CDN HD]
+#EXTINF:-1, FS1 Friendly: Chile vs USA [CDN HD]
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
+
+#EXTINF:-1, NHL: Toronto Maple Leafs vs Devils @ 7:30pm et [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
-#EXTINF:-1, NHL: Buffalo Sabres vs Calgary Flames @ 7pm et [USA HD]
-rtmp://w5.vmnode.pw:1935/live playpath=elite3 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite3.php live=true timeout=20
-
-#EXTINF:-1, NHL: Montreal vs Dallas @ 7:30pm et -- (GamePass) [CDN HD]
-http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
-
-#EXTINF:-1, NHL: Tampa Bay vs Carolina @ 7:30pm et -- NBCSN [USA HD]
+#EXTINF:-1, NHL: Pittsburgh Penguins vs Washington Capitals @ 8pm et [USA HD]
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, NHL: Tampa Bay vs Carolina @ 7:30pm et -- NBCSN [USA-2 HD]
-rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, NHL: Anaheim vs Vancouver - 10Pm et -- (GamePass) [CDN HD]
+#EXTINF:-1, NHL: Chicago Blackhawks vs Los Angeles Kings -- GamePass @ 10:30pm et [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 
-#EXTINF:-1, NBA: Toronto @ Indiana @ 7pm et [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
+#EXTINF:-1, NHL: Chicago Blackhawks vs Los Angeles Kings -- NBCSN @ 10:30pm et [USA HD]
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, NBA:  Toronto @ Indiana @ 7pm et [USA HD]
-rtmp://w5.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+#EXTINF:-1, NHL: Chicago Blackhawks vs Los Angeles Kings -- NBCSN @ 10:30pm et [USA-2 HD]
+rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
-#EXTINF:-1, NBA TV: Cleveland @ Detroit  7:30 pm [CDN HD]
+#EXTINF:-1, NBA: Brooklyn @ Atlanta @ 8pm et [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, NBA TV: Cleveland @ Detroit  7:30 pm [USA HD]
-rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
+#EXTINF:-1, NBA: Brooklyn @ Atlanta @ 8pm et [USA SD]
+rtmp://skystreams.info:1935/live playpath=espn1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
 
-#EXTINF:-1, NBA: Memphis @ Dallas @ 8:30pm et [USA HD]
-rtmp://w5.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+#EXTINF:-1, NBA: Washington @ Phoenix @ 10:30 pm [USA SD]
+rtmp://skystreams.info:1935/live playpath=espn1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
 
-#EXTINF:-1, NBA TV: Chicago @ Golden State @ 10:30 pm  [CDN HD]
+#EXTINF:-1, NBA: Washington @ Phoenix @ 10:30 pm [CDN HD]
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, NBA TV: Chicago @ Golden State @ 10:30 pm  [USA HD]
+#EXTINF:-1, NBA TV: Washington @ Phoenix @ 10:30 pm [USA HD]
 rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
-
-#EXTINF:-1, NBA: Washington @ L.A. Lakers @ 1030pm et [CDN]
-http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD]
 rtmp://skystreams.info/live playpath=elite35 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite35.php live=true timeout=20
@@ -63,16 +54,16 @@ http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 #EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD]
 rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
-#EXTINF:-1, Channel 5: Sky Sports 1  [USA HD]
+#EXTINF:-1, Channel 5: Sky Sports 1 [USA HD]
 rtmp://skystreams.info:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
 #EXTINF:-1, Channel 6: Sky Sports 5 [USA HD]
 rtmp://w8.vmnode.pw:2195/live3 playpath=skys5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skys5.php live=true timeout=20
 
-#EXTINF:-1, Channel 7: BT Sports 1  [USA HD]
+#EXTINF:-1, Channel 7: BT Sports 1 [USA HD]
 rtmp://skystreams.info:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
-#EXTINF:-1, Channel 8: Sky Sports News  [USA HD]
+#EXTINF:-1, Channel 8: Sky Sports News [USA HD]
 rtmp://skystreams.info:1935/live playpath=skynews swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/skynews.php live=true timeout=20
 
 #EXTINF:-1, Channel 9: TSN 1-5 Mix [CDN HD]
@@ -81,24 +72,24 @@ http://hls35.livestreamingcdn.com/livecdn625_4/myStream.sdp/playlist
 #EXTINF:-1, Channel 10: FOX Sports 1 247 [US SD]
 rtmp://skystreams.info:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
-#EXTINF:-1, Channel 11: NBA TV  [US HD]
+#EXTINF:-1, Channel 11: NBA TV [US HD]
 rtmp://w3.vmnode.pw:1935/live playpath=nba swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbatv.php live=true timeout=20
 
 #EXTINF:-1, Channel 12: WWE 24/7 [US SD]
 rtmp://skystreams.info/live playpath=wwe247 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
-
-#EXTINF:-1, Channel 14: ESPN 2 [US SD]
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, Channel 15:  NBC Golf  [USA HD]
-rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
-
-#EXTINF:-1, Channel 16: UK Sports Mix[EU]
-rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
 
 #EXTINF:-1, Channel 13: ESPN 1 [USA HQ]
 rtmp://skystreams.info:1935/live playpath=espn1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/espn3.php live=true timeout=20
 
 #EXTINF:-1, Channel 13-B: ESPN 1 [USA HQ]
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Channel 14: ESPN 2 [US SD]
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, Channel 15: NBC Golf [USA HD]
+rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
+
+#EXTINF:-1, Channel 16: UK Sports Mix[EU]
+rtmp://212.129.56.246:2195/live3 playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://hostaccess.org/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
 
