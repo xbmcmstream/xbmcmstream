@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, NBA : Cleveland Cavaliers v Los Angeles Clippers[USA HQ]
-rtmp://skystreams.info/live playpath=t1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t1 live=true timeout=20
-
-#EXTINF:-1, NBA : Phoenix Suns VS Portland Trail Blazers [USA HQ]
-rtmp://skystreams.info/live playpath=t2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=t2 live=true timeout=20
-
-#EXTINF:-1, Channel 14: ESPN 2 [US SD]
+#EXTINF:-1, Channel 10: ESPN 2 [US SD]
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
