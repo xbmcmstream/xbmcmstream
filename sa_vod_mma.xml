@@ -36,6 +36,9 @@ rtmp://skystreams.info/vod playpath=mp4:/ufc/UFC.Fight.Night.57.Prelims.Nov.22nd
 #EXTINF:-1, Bellator 131: Ortiz vs Bonnar
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Bellator.131.Nov.15th.2014.PDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=bellator131
 
+#EXTINF:-1, UFC 180 Hunt vs Werdum
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.180.Hunt.vs.Werdum.Nov.15th.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufc180mainevent
+
 #EXTINF:-1, UFC 180 Prelims
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.180.Prelims.Nov.15th.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufc180prelims
 
