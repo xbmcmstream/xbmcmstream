@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, HBO Boxing: Gennady 'GGG' Golovkin vs. Martin Murray
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/HBO.World.Championship.Boxing.2015.02.21.HDTV.x264-WD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://www.sportsaccess.se/ondemand.php?file=/ppvs/HBO.World.Championship.Boxing.2015.02.21.HDTV.x264-WD.mp4
+
 #EXTINF:-1, Boxing Pacquiao vs Algieri [SD]
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Boxing.Manny.Pacquiao.vs.Chris.Algieri.22ND.Nov.2014.PDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://www.sportsaccess.se/ondemand.php?file=/ppvs/Boxing.Manny.Pacquiao.vs.Chris.Algieri.22ND.Nov.2014.PDTV.x264-Sir.Paul.mp4
 
