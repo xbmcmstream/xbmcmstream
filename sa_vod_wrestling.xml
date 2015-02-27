@@ -57,6 +57,9 @@ rtmp://skystreams.info/vod playpath=mp4:/wweppv/WWE.Survivor.Series.2014.PPV.HDT
 #EXTINF:-1, WWE Smackdown 11.21.2014
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.21st.Nov.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=smackdown-11-21-2014
 
+#EXTINF:-1, WWE Night of Champions 2014
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/WWE.Night.of.Champions.2014.PPV.HDTV.x264-Ebi.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwenoc14
+
 #EXTINF:-1, WWE RAW 9/15/2014
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Monday.Night.RAW.2014.09.15.HDTV.x264-Ebi.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wweraw091514
 
@@ -110,6 +113,9 @@ rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.18t
 
 #EXTINF:-1, WWE Smackdown 4/11/2014
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.11th.April.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwesmackdown41114
+
+#EXTINF:-1, WWE Main Event 4/8/2014
+rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Main.Event.2014.04.08.WEB.DL.x264-TC.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwemainevent4814
 
 #EXTINF:-1, WWE RAW 4/7/2014
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Monday.Night.Raw.7th.April.2014.PDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wweraw4714
