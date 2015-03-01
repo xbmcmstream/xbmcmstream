@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, Invicta FC 11: Cyborg vs Tweet
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Invicta.FC.11.Cyborg.vs.Tweet.WEB.DL.x264-ViLLAiNS.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Invicta.FC.11.Cyborg.vs.Tweet.WEB.DL.x264-ViLLAiNS.mp4
+
+#EXTINF:-1, Bellator 134: Newton vs McGeary
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Bellator.134.Newton.vs.McGeary.2015.02.27.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Bellator.134.Newton.vs.McGeary.2015.02.27.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, UFC.Fight.Night.60.Henderson.vs.Thatch.Feb.14th.2015
 rtmp://skystreams.info/vod playpath=mp4:/ufc/UFC.Fight.Night.60.Henderson.vs.Thatch.Feb.14th.2015.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ufc/UFC.Fight.Night.60.Henderson.vs.Thatch.Feb.14th.2015.HDTV.x264-Sir.Paul.mp4
 
