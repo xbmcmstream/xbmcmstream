@@ -198,9 +198,6 @@ rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.172.26th.April.2014.HDTV.x264-
 #EXTINF:-1, UFC on Fox 11 Fabricio Werdum vs Travis Browne
 rtmp://skystreams.info/vod playpath=mp4:/ufc/UFC.on.Fox.11.Fabricio.Werdum.VS.Travis.Browne.HDTV.x264-UFC.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufconfox11
 
-#EXTINF:-1, Bellator 117
-rtmp://skystreams.info/vod playpath=mp4:/ufc/Bellator.117.HDTV.XviD-AFG.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=bellator117
-
 #EXTINF:-1, UFC Fight Night Nogueira vs Nelson
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/UFC.Fight.Night.Nogueira.vs.Nelson.11th.April.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufcfightnight39
 
