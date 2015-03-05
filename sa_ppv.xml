@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1, Sky Sports 1 [EU 720p]
+#EXTINF:-1, Sky Sports 1 [EU 720p] (update 05-03-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
 
-#EXTINF:-1, Sky Sports 2 [EU 720p]
+#EXTINF:-1, Sky Sports 2 [EU 720p] (update 05-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, ROH PPV [EU HD]
+#EXTINF:-1, ROH PPV [EU HD] (update 05-03-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, ROH PPV [EU SD]
+#EXTINF:-1, ROH PPV [EU SD] (update 05-03-2015)
 rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
 
-#EXTINF:-1, ROH PPV [CDN HD]
+#EXTINF:-1, ROH PPV [CDN HD] (update 05-03-2015)
 http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
 
-#EXTINF:-1, ROH PPV [CDN SD]
+#EXTINF:-1, ROH PPV [CDN SD] (update 05-03-2015)
 http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
 
