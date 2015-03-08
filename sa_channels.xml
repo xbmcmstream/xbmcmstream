@@ -1,164 +1,137 @@
 #EXTM3U
 
-#EXTINF:-1, ICC World Cup Cricket Matches [EU HD] (update 07-03-2015)
+#EXTINF:-1, ICC World Cup Cricket Matches [EU HD] (update 08-03-2015)
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, ICC World Cup Cricket Matches [EU SD] (update 07-03-2015)
+#EXTINF:-1, ICC World Cup Cricket Matches [EU SD] (update 08-03-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=nz swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/sky.php live=true timeout=20
 
-#EXTINF:-1, FA Cup: Bradford City vs Reading [EU 720p] (update 07-03-2015)
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, FA Cup: Bradford City vs Reading [USA SD] (update 07-03-2015)
-rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
-
-#EXTINF:-1, FA Cup : Aston Villa v West Bromwich Albion [EU 720p] (update 07-03-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, BeIN Sports 11 [USA 720p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, BeIN Sports 11 [CDN 720p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, La Liga: Deportivo La Coruna v Sevilla [EU HQ] (update 07-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Deportivo La Coruna v Sevilla [USA 720p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Deportivo La Coruna v Sevilla [CDN 720p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, La Liga: Athletic Club vs Real Madrid [EU HQ] (update 07-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Athletic Club vs Real Madrid [USA 720p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Athletic Club vs Real Madrid [CDN 720p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, Serie A: AC Milan v Hellas Verona [EU HQ] (update 07-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Elche CF vs. UD Almeria [USA 720p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Elche CF vs. UD Almeria [CDN 720p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, La Liga: Granada CF vs. Málaga CF [USA 720p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Granada CF vs. Málaga CF [CDN 720p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [CDN 1080p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [EU 1080p] (update 07-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsn2.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [CA 1080p] (update 07-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [EU 720p] (update 07-03-2015)
-rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [USA 540p] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [CDN 540p] (update 07-03-2015)
-http://hls35.livestreamingcdn.com/livecdn625_5/myStream.sdp/playlist
-
-#EXTINF:-1, Barclays Premier League: Queens Park Rangers v Tottenham Hotspur [EU 480p] (update 07-03-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
-
-#EXTINF:-1, UK Lightweight Boxing: Tommy Coyle v Martin Gethin [EU 720p] (update 07-03-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, First Utility Super League: Catalan Dragons Vs Salford Red Devils [EU HQ] (update 07-03-2015)
-rtmp://w6.vmnode.pw:1935/live playpath=elite31 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite31.php live=true timeout=20
-
-#EXTINF:-1, World Golf Championship [EU HQ] (update 07-03-2015)
-rtmp://w6.vmnode.pw:1935/live playpath=elite31 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite31.php live=true timeout=20
-
-#EXTINF:-1, Bundesliga: FSV Mainz v Borussia Moenchengladbach [EU HQ] (update 07-03-2015)
-rtmp://w4.vmnode.pw:1935/live playpath=elite36 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite36.php live=true timeout=20
-
-#EXTINF:-1, Bundesliga: Hannover 96 vs Bayern München [EU HQ] (update 07-03-2015)
+#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 08-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, ESPN 1 College Basketball (12pm -10pm ET) [USA HQ] (update 07-03-2015)
-rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
-
-#EXTINF:-1, ESPN 2 College Basketball (12pm - 10pm ET) [US SD] (update 07-03-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, MLB LIVE: Toronto Blue Jays @ Philadelphia Phillies @ 1pm et [USA HD] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, NHL: Boston vs Philly @ 1pm et [US HD] (update 07-03-2015)
-rtmp://192.254.65.82:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
-
-#EXTINF:-1, NASCAR Practice Racing (2:30-9PM ET) [USA SD] (update 07-03-2015)
-rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
-
-#EXTINF:-1, MLS On TSN: Toronto FC vs. Whitecaps FC @ 6PM ET [CA HD] (update 07-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NHL: Toronto vs St Louis @ 7PM ET [US HD] (update 07-03-2015)
-rtmp://192.254.65.82:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
-
-#EXTINF:-1, NBA: Phoenix @ Cleveland @ 7:30pm et [USA HD] (update 07-03-2015)
+#EXTINF:-1, BeIN Sports 11 [USA 720p] (update 08-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
-#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 07-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+#EXTINF:-1, BeIN Sports 11 [CDN 720p] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+#EXTINF:-1, La Liga: FC Barcelona vs. Rayo Vallecano de Madrid [CDN 720p] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 07-03-2015)
+#EXTINF:-1, La Liga: FC Barcelona vs. Rayo Vallecano de Madrid [USA 720p] (update 08-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
-#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 07-03-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+#EXTINF:-1, World Golf Championship [EU 540p] (update 08-03-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 07-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+#EXTINF:-1, Scottish Cup: Hibernian Vs Berwick Rangers [EU 540p] (update 08-03-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, Channel 6: FOX Sports 1 247 [US SD] (update 07-03-2015)
-rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+#EXTINF:-1, Scottish Cup: Dundee Utd v Celtic [EU 540p] (update 08-03-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, Channel 7: NHL Network [US HD] (update 07-03-2015)
-rtmp://192.254.65.82:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+#EXTINF:-1, FA Cup: Liverpool vs Blackburn Rovers [EU 720p] (update 08-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, Channel 8: WWE 24/7 [US SD] (update 07-03-2015)
-rtmp://skystreams.info/live playpath=wwe247 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
+#EXTINF:-1, FA Cup: Liverpool vs Blackburn Rovers [CDN 720p] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625_7/myStream.sdp/playlist
 
-#EXTINF:-1, Channel 9: ESPN 1 [USA HQ] (update 07-03-2015)
-rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+#EXTINF:-1, FA Cup: Liverpool vs Blackburn Rovers [EU 540p] (update 08-03-2015)
+rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
-#EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 07-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+#EXTINF:-1, FA Cup: Liverpool vs Blackburn Rovers [CDN 540p] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625_8/myStream.sdp/playlist
 
-#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 07-03-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 07-03-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
-
-#EXTINF:-1, Channel 12: UK Sports Mix[EU] (update 07-03-2015)
+#EXTINF:-1, UK Darts Day 3 [EU SD] (update 08-03-2015)
 rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, Channel 13: NZ Sky Sport [EU] (update 07-03-2015)
+#EXTINF:-1, La Liga : Barcelona v Rayo Vallecano [EU 540p] (update 08-03-2015)
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, Eredivisie : Ajax v Excelsior [EU 540p] (update 08-03-2015)
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, French Ligue 1 : Guingamp v Lille [EU 540p] (update 08-03-2015)
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, La Liga : Villarreal v Celta Vigo [EU 540p] (update 08-03-2015)
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, La Liga : Atletico Madrid v Valencia [EU 540p] (update 08-03-2015)
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
+
+#EXTINF:-1, MLS: Orlando City SC v New York City FC [EU 540p] (update 08-03-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, MLS: Sporting Kansas City v New York Red Bulls [EU 540p] (update 08-03-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, MLS: Sounders FC vs Revolution [Canada 720p] (update 08-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, ESPN 1 College Basketball (12pm -10pm ET) [USA HQ] (update 08-03-2015)
+rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+
+#EXTINF:-1, ESPN 2 College Basketball (12pm - 10pm ET) [US SD] (update 08-03-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, NASCAR Kobalt 400 [USA SD] (update 08-03-2015)
+rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+
+#EXTINF:-1, NASCAR Kobalt 400 [CDN 720p] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625_6/myStream.sdp/playlist
+
+#EXTINF:-1, NASCAR Kobalt 400 [CA 720p] (update 08-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 08-03-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 08-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Channel 2-B: MLB NETWORK (BACKUP) [USA HQ] (update 08-03-2015)
+http://hls35.livestreamingcdn.com/livecdn625_8/myStream.sdp/playlist
+
+#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 08-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+
+#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 08-03-2015)
+rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 08-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, Channel 6: FOX Sports 1 247 [US SD] (update 08-03-2015)
+rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+
+#EXTINF:-1, Channel 7: NHL Network [US HD] (update 08-03-2015)
+rtmp://192.254.65.82:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+
+#EXTINF:-1, Channel 8: WWE 24/7 [US SD] (update 08-03-2015)
+rtmp://skystreams.info/live playpath=wwe247 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
+
+#EXTINF:-1, Channel 9: ESPN 1 [USA HQ] (update 08-03-2015)
+rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+
+#EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 08-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 08-03-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 08-03-2015)
+rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
+
+#EXTINF:-1, Channel 12: UK Sports Mix[EU] (update 08-03-2015)
+rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+
+#EXTINF:-1, Channel 13: NZ Sky Sport [EU] (update 08-03-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=nz swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/sky.php live=true timeout=20
 
-#EXTINF:-1, Channel 14: TBS [USA SD] (update 07-03-2015)
+#EXTINF:-1, Channel 14: TBS [USA SD] (update 08-03-2015)
 rtmp://w1.vmnode.pw:1935/live playpath=tbs swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tbs.php live=true timeout=20
 
-#EXTINF:-1, Channel 15: ESPN U [USA SD] (update 07-03-2015)
+#EXTINF:-1, Channel 15: ESPN U [USA SD] (update 08-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espnu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espnu.php live=true timeout=20
 
