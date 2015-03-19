@@ -1,98 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1, ICC World Cup Cricket Matches [EU HD] (update 18-03-2015)
+#EXTINF:-1, ICC World Cup Cricket Matches [EU HD] (update 19-03-2015)
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, ICC World Cup Cricket Matches [EU SD] (update 18-03-2015)
+#EXTINF:-1, ICC World Cup Cricket Matches [EU SD] (update 19-03-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=nz swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/sky.php live=true timeout=20
 
-#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 18-03-2015)
+#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 19-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, NHL: Montreal Canadians vs Florida Panthers LIVE [EU 1080p] (update 18-03-2015)
+#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA HD] (update 19-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+
+#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA 540p] (update 19-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA SD] (update 19-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [CA 1080p] (update 19-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [EU 1080p] (update 19-03-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
-#EXTINF:-1, NHL: Montreal Canadians vs Florida Panthers LIVE [CA 1080p] (update 18-03-2015)
+#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [EU#2 1080p] (update 19-03-2015)
+rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
+
+#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [CA 1080p] (update 19-03-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, ESPN 1 NCAA Basketball [USA SD] (update 18-03-2015)
+#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [EU 1080p] (update 19-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
+
+#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [EU#2 1080p] (update 19-03-2015)
+rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
+
+#EXTINF:-1, ESPN 1 NCAA Basketball [USA SD] (update 19-03-2015)
 rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
 
-#EXTINF:-1, ESPN 2 NCAA Basketball [USA SD] (update 18-03-2015)
+#EXTINF:-1, ESPN 2 NCAA Basketball [USA SD] (update 19-03-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
-#EXTINF:-1, FOX Sports 1 NCAA Basketball @ 3:30PM-8PM ET [USA SD] (update 18-03-2015)
+#EXTINF:-1, FOX Sports 1 NCAA Basketball @ 3:30PM-8PM ET [USA SD] (update 19-03-2015)
 rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
-#EXTINF:-1, NBA: Milwaukee @ New Orleans @ 8pm et [USA HD] (update 18-03-2015)
-rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
-
-#EXTINF:-1, NBA: Clippers vs Hornets @ 10:30pm et [USA] (update 18-03-2015)
-rtmp://skystreams.info/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
-
-#EXTINF:-1, NBA: Clippers vs Hornets @ 10:30pm et [EU] (update 18-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, MLB LIVE: Spring Training Game @ 1pm et[USA HD] (update 18-03-2015)
+#EXTINF:-1, MLB LIVE: Spring Training Game @ 1pm et[USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, MLB LIVE: Spring Training Game @ 4pm et [USA HD] (update 18-03-2015)
+#EXTINF:-1, MLB LIVE: Spring Training Game @ 4pm et [USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, MLB LIVE: Spring Training Game @ 7pm et [USA HD] (update 18-03-2015)
+#EXTINF:-1, MLB LIVE: Spring Training Game @ 7pm et [USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, NBC Golf: Valspar Champ Full Covg [USA HD] (update 18-03-2015)
+#EXTINF:-1, NBC Golf: Valspar Champ Full Covg [USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
-#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 18-03-2015)
+#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 19-03-2015)
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 18-03-2015)
+#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 18-03-2015)
+#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 19-03-2015)
 rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
-#EXTINF:-1, Channel 3-B: NBA TV (24/7) [CDN HD] (update 18-03-2015)
+#EXTINF:-1, Channel 3-B: NBA TV (24/7) [CDN HD] (update 19-03-2015)
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
 
-#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 18-03-2015)
+#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
-#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 18-03-2015)
+#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 19-03-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, Channel 6: FOX Sports 1 247 [US SD] (update 18-03-2015)
+#EXTINF:-1, Channel 6: FOX Sports 1 247 [US SD] (update 19-03-2015)
 rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
-#EXTINF:-1, Channel 7: NHL Network [US HD] (update 18-03-2015)
+#EXTINF:-1, Channel 7: NHL Network [US HD] (update 19-03-2015)
 rtmp://192.254.65.82:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
 
-#EXTINF:-1, Channel 8: WWE 24/7 [US SD] (update 18-03-2015)
+#EXTINF:-1, Channel 8: WWE 24/7 [US SD] (update 19-03-2015)
 rtmp://skystreams.info/live playpath=wwe247 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
 
-#EXTINF:-1, Channel 9: ESPN 1 [USA HQ] (update 18-03-2015)
+#EXTINF:-1, Channel 9: ESPN 1 [USA HQ] (update 19-03-2015)
 rtmp://207.244.76.209/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
 
-#EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 18-03-2015)
+#EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 18-03-2015)
+#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 19-03-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
-#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 18-03-2015)
+#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
-#EXTINF:-1, Channel 12: UK Sports Mix[EU] (update 18-03-2015)
+#EXTINF:-1, Channel 12: UK Sports Mix[EU] (update 19-03-2015)
 rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, Channel 13: NZ Sky Sport [EU] (update 18-03-2015)
+#EXTINF:-1, Channel 13: NZ Sky Sport [EU] (update 19-03-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=nz swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/sky.php live=true timeout=20
 
-#EXTINF:-1, Channel 14: TBS [USA SD] (update 18-03-2015)
+#EXTINF:-1, Channel 14: TBS [USA SD] (update 19-03-2015)
 rtmp://w1.vmnode.pw:1935/live playpath=tbs swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tbs.php live=true timeout=20
 
-#EXTINF:-1, Channel 15: ESPN U [USA SD] (update 18-03-2015)
+#EXTINF:-1, Channel 15: ESPN U [USA SD] (update 19-03-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espnu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espnu.php live=true timeout=20
 
