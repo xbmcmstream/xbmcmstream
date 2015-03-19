@@ -9,31 +9,19 @@ rtmp://w10.vmnode.pw:1935/live playpath=nz swfUrl=http://skyaccess.se/vb/jwplaye
 #EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 19-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA HD] (update 19-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+#EXTINF:-1, First Utility Super League: St Helens Vs Warrington [EU 540p] (update 19-03-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA 540p] (update 19-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+#EXTINF:-1, UEFA Europa League Soccer: Dynamo Kyiv v Everton [EU HD] (update 19-03-2015)
+rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
-#EXTINF:-1, NBA: Atlanta @ Golden State @ 10:30PM ET [USA SD] (update 19-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
-
-#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [CA 1080p] (update 19-03-2015)
+#EXTINF:-1, UEFA Europa League Soccer: FC Dynamo-Moscow - SSC Napoli [CA 1080p] (update 19-03-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [EU 1080p] (update 19-03-2015)
+#EXTINF:-1, UEFA Europa League Soccer: FC Dynamo-Moscow - SSC Napoli [EU 1080p] (update 19-03-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
-#EXTINF:-1, NHL: Chicago Blackhawks vs NY Rangers LIVE [EU#2 1080p] (update 19-03-2015)
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
-
-#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [CA 1080p] (update 19-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [EU 1080p] (update 19-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, NHL: Kings vs Ducks @ 10:30pm LIVE [EU#2 1080p] (update 19-03-2015)
+#EXTINF:-1, UEFA Europa League Soccer: FC Dynamo-Moscow - SSC Napoli [EU#2 1080p] (update 19-03-2015)
 rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
 
 #EXTINF:-1, ESPN 1 NCAA Basketball [USA SD] (update 19-03-2015)
@@ -64,7 +52,7 @@ rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwp
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 19-03-2015)
-rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
 #EXTINF:-1, Channel 3-B: NBA TV (24/7) [CDN HD] (update 19-03-2015)
 http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/playlist
