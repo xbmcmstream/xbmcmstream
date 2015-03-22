@@ -33,53 +33,26 @@ rtmp://w4.vmnode.pw:2195/live playpath=elite25 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, La Liga: Atlético Madrid vs Getafe [EU 540p] (update 22-03-2015)
 rtmp://w7.vmnode.pw:2195/live playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
 
-#EXTINF:-1, BPL On TSN: Tottenham vs. Leicester City [EU 1080p] (update 22-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, BPL On TSN: Tottenham vs. Leicester City [CA 1080p] (update 22-03-2015)
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [CA 1080p] (update 22-03-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Tottenham Hotspur vs Leicester City [EU 720p] (update 22-03-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [EU 1080p] (update 22-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Tottenham Hotspur vs Leicester City [EU 540p] (update 22-03-2015)
-rtmp://w4.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Prelims [USA 720p] (update 22-03-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite2.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Aston Villa vs Swansea City [EU 720p] (update 22-03-2015)
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite32 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite32.php live=true timeout=20
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [EU 720p] (update 22-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Southampton vs Burnley [EU 540p] (update 22-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Stoke City vs Crystal Palace [EU 720p] (update 22-03-2015)
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Stoke City vs Crystal Palace [EU 540p] (update 22-03-2015)
-rtmp://w12.vmnode.pw:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Newcastle United vs Arsenal [EU 720p] (update 22-03-2015)
-rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Newcastle United vs Arsenal [EU#2 720p] (update 22-03-2015)
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [EU#2 720p] (update 22-03-2015)
 rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Newcastle United vs Arsenal [EU 540p] (update 22-03-2015)
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [EU 540p] (update 22-03-2015)
 rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Newcastle United vs Arsenal [USA 540p] (update 22-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [EU 1080p] (update 22-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [US HD] (update 22-03-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, 2015 NASCAR Xfinity Series Pre-Race: Drive4clots.Com 300 [CA HD] (update 22-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, 2015 NASCAR Xfinity Series Pre-Race: Drive4clots.Com 300 [USA SD] (update 22-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+#EXTINF:-1, UFC Fight Night 62: Maia vs. LaFlare Main Card [USA 540p] (update 22-03-2015)
+rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
 #EXTINF:-1, TNT Basketball [USA HD] (update 22-03-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
@@ -206,28 +179,4 @@ rtmp://w5.vmnode.pw:1935/live playpath=tbs swfUrl=http://skyaccess.se/vb/jwplaye
 
 #EXTINF:-1, Channel 15: ESPN U [USA SD] (update 22-03-2015)
 rtmp://w5.vmnode.pw:1935/live playpath=espnu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espnu.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester City vs West Bromwich Albion [EU 720p] (update 22-03-2015)
-rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester City vs West Bromwich Albion [EU#2 720p] (update 22-03-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester City vs West Bromwich Albion [EU 540p] (update 22-03-2015)
-rtmp://w9.vmnode.pw:2195/live playpath=elite37 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite37.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester City vs West Bromwich Albion [USA 540p] (update 22-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [CA 1080p] (update 22-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [EU 540p] (update 22-03-2015)
-rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [EU#2 540p] (update 22-03-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: West Ham United vs Sunderland [USA 540p] (update 22-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
