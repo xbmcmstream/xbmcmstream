@@ -3,30 +3,6 @@
 #EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 23-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, LA LIGA [EU 720p#A] (update 23-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 720p#B] (update 23-03-2015)
-rtmp://w12.vmnode.pw:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 720p#C] (update 23-03-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 720p#D] (update 23-03-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [USA 720p] (update 23-03-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 540p#A] (update 23-03-2015)
-rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 540p#B] (update 23-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, LA LIGA [EU 540p#C] (update 23-03-2015)
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
-
 #EXTINF:-1, NBC Golf: Arnold Palmer Tourney [USA HD] (update 23-03-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
@@ -89,6 +65,24 @@ rtmp://w5.vmnode.pw:1935/live playpath=tbs swfUrl=http://skyaccess.se/vb/jwplaye
 
 #EXTINF:-1, Channel 15: ESPN U [USA SD] (update 23-03-2015)
 rtmp://w5.vmnode.pw:1935/live playpath=espnu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espnu.php live=true timeout=20
+
+#EXTINF:-1, NBA Lakers vs 76ers [USA 720P] (update 23-03-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
+#EXTINF:-1, TNT NCAAB [USA 720P] (update 23-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+
+#EXTINF:-1, NCAAB: Dayton vs Oklahoma [CA 1080p] (update 23-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, NCAAB: Dayton vs Oklahoma [EU 1080p] (update 23-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
+
+#EXTINF:-1, NCAAB: Dayton vs Oklahoma [USA 720P] (update 23-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+
+#EXTINF:-1, NCAAB: Maryland vs West Virginia @ 8:40pm et [USA 720P] (update 23-03-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
 #EXTINF:-1, NCAAB: San Diego St vs Duke @ 2:40PM ET [CA 1080p] (update 23-03-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
