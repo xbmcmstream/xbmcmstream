@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU 540p] (update 29-03-2015)
+#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU#1] (update 29-03-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
+
+#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU#2] (update 29-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
+
+#EXTINF:-1, ICC Cricket World Cup 2015 Matches [EU#3] (update 29-03-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, PRO12 Scarlets Vs Edinburgh [EU 540p] (update 29-03-2015)
-rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
+#EXTINF:-1, F1 Racing (TSN) [CA 1080p] (update 29-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, PRO12 Scarlets Vs Edinburgh [EU-B 540p] (update 29-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
-
-#EXTINF:-1, PRO12 Munster Vs Connacht [EU 540p] (update 29-03-2015)
-rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
-
-#EXTINF:-1, PRO12 Munster Vs Connacht [EU-B 540p] (update 29-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
+#EXTINF:-1, F1 Racing (TSN) [EU 1080p] (update 29-03-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
 #EXTINF:-1, Saturday Fight Night: IBF World Welterweight: Kell Brook Vs Jo Jo Dan [EU 540p] (update 29-03-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
@@ -21,29 +21,20 @@ rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, Saturday Fight Night: IBF World Welterweight: Kell Brook Vs Jo Jo Dan [EU-B 540p] (update 29-03-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, UEFA Euro 2016 qualifying: Israel Vs Wales [EU 540p] (update 29-03-2015)
+#EXTINF:-1, Moto GP [USA] (update 29-03-2015)
+rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, WWE Hall Of Fame [USA] (update 29-03-2015)
+rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+
+#EXTINF:-1, WWE Hall Of Fame [EU] (update 29-03-2015)
 rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
-#EXTINF:-1, UEFA Euro 2016 qualifying: Israel Vs Wales [EU-B 540p] (update 29-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+#EXTINF:-1, NBA: Atlanta Hawks @ Charlotte Hornets LIVE [EU] (update 29-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=elite43 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elitew13.php live=true timeout=20
 
-#EXTINF:-1, UEFA Euro 2016 qualifying: Netherlands Vs Turkey [EU 540p] (update 29-03-2015)
-rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
-
-#EXTINF:-1, UEFA Euro 2016 qualifying: Netherlands Vs Turkey [EU-B 540p] (update 29-03-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, 2015 MLS On TSN: Orlando City FC vs. Impact [EU 1080p] (update 29-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, 2015 MLS On TSN: Orlando City FC vs. Impact [CA 1080p] (update 29-03-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NHL: SJ Sharks vs. Phlia. Flyers @ 12:30pm ET [USA 540p] (update 29-03-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, NHL Network: Boston Bruins vs NY Rangers @ 1pm et [US HD] (update 29-03-2015)
-rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+#EXTINF:-1, NBA: Denver Nuggets @ Portland Trail Blazers @ 10PM ET [EU] (update 29-03-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=elite43 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elitew13.php live=true timeout=20
 
 #EXTINF:-1, NHL Network: LA Kings vs MIN Wild @ 8pm et [US HD] (update 29-03-2015)
 rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
@@ -60,8 +51,11 @@ rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplay
 #EXTINF:-1, Ford World Men's Curling Championship [EU 1080p] (update 29-03-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
-#EXTINF:-1, BOXING: Jhonny Gonzalez-vs-Gary Russell Jr. [##] (update 29-03-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
+#EXTINF:-1, BOXING: Jhonny Gonzalez-vs-Gary Russell Jr. [EU] (update 29-03-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, BOXING: Jhonny Gonzalez-vs-Gary Russell Jr. [USA] (update 29-03-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=boxing swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/boxn.php live=true timeout=20
 
 #EXTINF:-1, ESPN U LIVE [USA] (update 29-03-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
