@@ -144,6 +144,9 @@ rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.Henderson.vs.Dos.A
 #EXTINF:-1, UFC Fight Night 48: Bisping vs Le (update 02-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.Bisping.vs Le.23th.Aug.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufcfn48
 
+#EXTINF:-1, UFC Fight Night 47: Bader vs. Saint Preux (update 02-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.Bader.vs.Saint.Preux.16th.Aug.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufcfn47
+
 #EXTINF:-1, UFC on FOX 12: Lawler vs Brown Main Card (update 02-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.Lawler.vs.Brown.26th.July.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufcfox12
 

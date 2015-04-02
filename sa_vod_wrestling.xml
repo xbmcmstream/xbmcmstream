@@ -132,9 +132,6 @@ rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.4th
 #EXTINF:-1, WWE Superstars 4/3/2014 (update 02-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Superstars.04.03.14.WEB-DL.H264-XWT.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwesuperstars4314
 
-#EXTINF:-1, WWE Main Event 4/2/2014 (update 02-04-2015)
-rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Main.Event.04.01.14.WEB-DL.H264-XWT.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwemainevent4214
-
 #EXTINF:-1, WWE Nxt 4/1/2014 (update 02-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.NXT.1st.April.2014.PDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwenxt4114
 
