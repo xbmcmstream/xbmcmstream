@@ -30,53 +30,23 @@ rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, Sky's Premiership Match Choice [EU HQ] (update 04-04-2015)
 rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Arsenal vs Liverpool [USA 720p] (update 04-04-2015)
+#EXTINF:-1, La Liga: Córdoba vs Atlético Madrid [EU HQ] (update 04-04-2015)
+rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+
+#EXTINF:-1, Barclays Premier League: Chelsea vs Stoke City [USA 720p] (update 04-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Arsenal vs Liverpool [EU 720p] (update 04-04-2015)
+#EXTINF:-1, Barclays Premier League: Chelsea vs Stoke City [EU 720p] (update 04-04-2015)
 rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Arsenal vs Liverpool [EU#2 720p] (update 04-04-2015)
+#EXTINF:-1, Barclays Premier League: Chelsea vs Stoke City [EU#2 720p] (update 04-04-2015)
 rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Arsenal vs Liverpool [EU 540p] (update 04-04-2015)
+#EXTINF:-1, Barclays Premier League: Chelsea vs Stoke City [EU 540p] (update 04-04-2015)
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Arsenal vs Liverpool [USA 540p] (update 04-04-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester United vs Aston Villa [CA 1080p] (update 04-04-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester United vs Aston Villa [EU 1080p] (update 04-04-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester United vs Aston Villa [USA 720p] (update 04-04-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester United vs Aston Villa [EU 540p] (update 04-04-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Manchester United vs Aston Villa [USA 540p] (update 04-04-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Everton vs Southampton [EU 720p] (update 04-04-2015)
-rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Everton vs Southampton [EU#2 720p] (update 04-04-2015)
-rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Everton vs Southampton [EU 540p] (update 04-04-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Leicester City vs West Ham [EU 720p] (update 04-04-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Hull City v Swansea City [EU 720p] (update 04-04-2015)
-rtmp://w7.vmnode.pw:2195/live playpath=elite28 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite28.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: QPR vs West Brom [EU 540p] (update 04-04-2015)
-rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
+#EXTINF:-1, Barclays Premier League: Chelsea vs Stoke City [EU#2 540p] (update 04-04-2015)
+rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
 
 #EXTINF:-1, UFC Fight Night Fairfax: Medes vs. Lamas Main Card [CA 1080p] (update 04-04-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
@@ -85,7 +55,7 @@ rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplay
 rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
 #EXTINF:-1, UFC Fight Night Fairfax: Medes vs. Lamas Main Card (Prelims+MainCard) [USA HD] (update 04-04-2015)
-rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, UFC Fight Night Fairfax: Medes vs. Lamas Main Card (Prelims+MainCard) [EU HD] (update 04-04-2015)
 rtmp://w4.vmnode.pw:1935/live playpath=elite26 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite26.php live=true timeout=20
@@ -104,6 +74,9 @@ rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jw
 
 #EXTINF:-1, NHL Network Game Mix (720p) [USA HD] (update 04-04-2015)
 rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+
+#EXTINF:-1, CBS Boxing: Adonis Stevenson vs. Sakio Bika [EU 720p] (update 04-04-2015)
+rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
 #EXTINF:-1, NCAA Final Four Full Covg [CA 1080p] (update 04-04-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20

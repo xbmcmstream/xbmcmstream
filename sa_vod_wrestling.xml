@@ -126,9 +126,6 @@ rtmp://skystreams.info/vod playpath=mp4:/ppvs/WWE.Wrestlemania.April.6th.2014.PD
 #EXTINF:-1, WWE WrestleMania 30 PPV [480p] (update 04-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/wm30.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=WrestleMania30
 
-#EXTINF:-1, WWE Smackdown 4/4/2014 (update 04-04-2015)
-rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Friday.Night.Smackdown.4th.April.2014.HDTV.x264-Sir.Paul.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwesmackdown4414
-
 #EXTINF:-1, WWE Superstars 4/3/2014 (update 04-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/weeklies/WWE.Superstars.04.03.14.WEB-DL.H264-XWT.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=wwesuperstars4314
 
