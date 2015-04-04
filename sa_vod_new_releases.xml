@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, GLORY 20 IPPV (update 04-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Glory.20.Dubai.720p.WEB-DL.x264.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Glory.20.Dubai.720p.WEB-DL.x264.mp4
+
 #EXTINF:-1, The Notorious Connor McGregor DVD (update 04-04-2015)
-rtmp://skystreams.info/vod playpath=mp4:/ppvs/Notorious.Connor.McGregor.2014.DVDRiP.x264-ViLLAiNS.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Notorious.Connor.McGregor.2014.DVDRiP.x264-ViLLAiNS.mp4
+rtmp://skystreams.info/vod playpath=mp4:/dvds/Notorious.Connor.McGregor.2014.DVDRiP.x264-ViLLAiNS.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/dvds/Notorious.Connor.McGregor.2014.DVDRiP.x264-ViLLAiNS.mp4
 
 #EXTINF:-1, Premier League: Download a Day In The Life of Manager Roberto Martinez [HD] (update 04-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/misc/Premier.League.Download.A.Day.In.The.Life.Of.Manager.Roberto.Martinez.2015.03.15.HDTV.x264-NWCHD/Premier.League.Download.A.Day.In.The.Life.Of.Manager.Roberto.Martinez.2015.03.15.720p.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/misc/Premier.League.Download.A.Day.In.The.Life.Of.Manager.Roberto.Martinez.2015.03.15.HDTV.x264-NWCHD/Premier.League.Download.A.Day.In.The.Life.Of.Manager.Roberto.Martinez.2015.03.15.720p.HDTV.x264-NWCHD.mp4
