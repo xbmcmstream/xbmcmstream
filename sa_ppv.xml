@@ -10,7 +10,7 @@ http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
 rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
 
 #EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [EU SD] (update 05-04-2015)
-rtmp://w12.vmnode.pw:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
+rtmp://w13.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
 
 #EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [CDN HD] (update 05-04-2015)
 http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist

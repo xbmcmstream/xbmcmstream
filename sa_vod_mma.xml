@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, UFC Fight Night 63: Mendes vs Lamas (update 05-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.63.Mendes.vs.Lamas.2015.04.04.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.Fight.Night.63.Mendes.vs.Lamas.2015.04.04.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, GLORY 20 IPPV (update 05-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Glory.20.Dubai.720p.WEB-DL.x264.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Glory.20.Dubai.720p.WEB-DL.x264.mp4
 
