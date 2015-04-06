@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, Big Knockout Boxing 2 PPV (update 06-04-2015)
+#EXTINF:-1, Big Knockout Boxing 2 PPV (FLV) (update 06-04-2015)
+rtmp://skystreams.info/vod playpath=/misc/BKB2.f4v swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/misc/BKB2.f4v live=true timeout=20
+
+#EXTINF:-1, Big Knockout Boxing 2 PPV (MP4) (update 06-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/BKB.Big.Knockout.Boxing.2.Rosado.vs.Stevens.2015.04.04.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/BKB.Big.Knockout.Boxing.2.Rosado.vs.Stevens.2015.04.04.HDTV.x264-NWCHD.mp4
 
 #EXTINF:-1, HBO Boxing: Kovalev vs Pascal (update 06-04-2015)
