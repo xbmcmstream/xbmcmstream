@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, Premier Boxing Champions: Stevenson vs Bika 720p (update 07-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.720p.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.720p.HDTV.x264-NWCHD.mp4
+
+#EXTINF:-1, Premier Boxing Champions: Stevenson vs Bika SD (update 07-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, Big Knockout Boxing 2 PPV (FLV) (update 07-04-2015)
 rtmp://skystreams.info/vod playpath=/misc/BKB2.f4v swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/misc/BKB2.f4v live=true timeout=20
 
