@@ -1,31 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, UK Sports Mix [EU] (update 10-04-2015)
-rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, UK Sports mix # 2 [EU 540p] (update 10-04-2015)
-rtmp://w10.vmnode.pw:2195/live playpath=elite51 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite51.php live=true timeout=20
-
-#EXTINF:-1, Blackburn vs Liverpool [EU] (update 10-04-2015)
-rtmp://w7.vmnode.pw:2195/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
-
-#EXTINF:-1, MLB NETWORK GAME MIX [USA 540p] (update 10-04-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, MLB: Red Sox vs Philaldelphia Phillies @ 7pm et [US SD] (update 10-04-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, MLB: Dodgers vs Padres @ 10pm et [US HD] (update 10-04-2015)
+#EXTINF:-1, MLB: Dodgers vs Diamondbacks @ 10pm et [US HD] (update 10-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
-
-#EXTINF:-1, MLB: Dodgers vs Padres @ 10pm et [US SD] (update 10-04-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, ESPN NBA [US HD] (update 10-04-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, ESPN NBA [US SD] (update 10-04-2015)
-rtmp://207.244.76.209:2195/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
 
 #EXTINF:-1, NBCSN Hockey [US HD] (update 10-04-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
