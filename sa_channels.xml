@@ -6,40 +6,16 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 12-04-2015)
 rtmp://w4.vmnode.pw:2195/live playpath=elite25 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite25.php live=true timeout=20
 
-#EXTINF:-1, Sky Sports 2 Boxing [EU 720p] (update 12-04-2015)
+#EXTINF:-1, PPV Boxing: Orlando Salido vs. Rocky Martinez (Delayed Broadcast) @ 11pm et [EU 540p] (update 12-04-2015)
 rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
 
-#EXTINF:-1, Serie A: Parma v Juventus [EU 540p] (update 12-04-2015)
-rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Real Madrid vs Eibar [EU 540p] (update 12-04-2015)
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Málaga vs Atlético Madrid [EU 540p] (update 12-04-2015)
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, La Liga: Sevilla v Barcelona [EU 540p] (update 12-04-2015)
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [EU 1080p] (update 12-04-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [CA 1080p] (update 12-04-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [US 720p] (update 12-04-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [US#2 720p] (update 12-04-2015)
+#EXTINF:-1, NBC Boxing: Danny Garcia vs. Lamont Peterson + Lee vs Quillin [USA HD] (update 12-04-2015)
 rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [EU 720p] (update 12-04-2015)
+#EXTINF:-1, NBC Boxing: Danny Garcia vs. Lamont Peterson + Lee vs Quillin [EU HD] (update 12-04-2015)
 rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
 
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [EU#2 720p] (update 12-04-2015)
-rtmp://w2.vmnode.pw:2195/live playpath=elite33 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite33.php live=true timeout=20
-
-#EXTINF:-1, Barclays Premier League: Burnley vs Arsenal [EU 540p] (update 12-04-2015)
+#EXTINF:-1, NBC Boxing: Danny Garcia vs. Lamont Peterson + Lee vs Quillin [EU SD] (update 12-04-2015)
 rtmp://w6.vmnode.pw:2195/live3 playpath=elite22 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite22.php live=true timeout=20
 
 #EXTINF:-1, UFC Fight Night 64: Gonzaga vs. Cro Cop II @ 12pm et [USA] (update 12-04-2015)
@@ -101,9 +77,6 @@ rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwp
 
 #EXTINF:-1, Arena Football: Las Vegas at Los Angeles on ESPN 2 @ 10pm et [US SD] (update 12-04-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, NBC Boxing: Danny Garcia vs. Lamont Peterson + Lee vs Quillin (Links coming soon) [USA SD] (update 12-04-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 12-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
