@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Premier Boxing Champions: Garcia vs Lamont (update 13-04-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Premier.Boxing.Champions.Garcia.vs.Lamont.2015.04.11.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Premier.Boxing.Champions.Garcia.vs.Lamont.2015.04.11.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, Premier Boxing Champions: Stevenson vs Bika 720p (update 13-04-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.720p.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Premier.Boxing.Champions.Stevenson.vs.Bika.2015.04.04.720p.HDTV.x264-NWCHD.mp4
 
