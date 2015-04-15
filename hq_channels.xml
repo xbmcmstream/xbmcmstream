@@ -24,11 +24,11 @@ rtmp://142.4.216.205/live/ch7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf
 #EXTINF:-1, Channel 8 NBA  Memphis Grizzlies v Indiana Pacers EU**SD** (update 15-04-2015)
 rtmp://192.95.32.74/live/vip8v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 9 El Barto VIP (update 15-04-2015)
-rtmp://192.99.19.130/live/elbartovip swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
+#EXTINF:-1, Channel 9 A-League  Brisbane Roar v Melbourne Victory CA**SD** (update 15-04-2015)
+rtmp://142.4.216.205/live/ch9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 Ray's VIP Lounge (update 15-04-2015)
-rtmp://192.99.19.130/live/vip10v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
+#EXTINF:-1, Channel 10 CNN CA **SD** (update 15-04-2015)
+rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 11 (update 15-04-2015)
 rtmp://192.99.19.130/live/vip11v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
