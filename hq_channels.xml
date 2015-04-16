@@ -67,7 +67,7 @@ rtmp://192.95.32.74/live/bt1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf 
 rtmp://192.95.32.74/live/senta swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 1 HD (update 16-04-2015)
-rtmp://192.95.32.74/live/sky1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://37.48.86.45/live/channel1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 2 HD (update 16-04-2015)
 rtmp://192.95.32.74/live/sky2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20  token=WY846p1E1g15W7s
