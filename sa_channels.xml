@@ -52,7 +52,7 @@ rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwp
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, USA Baseball: Seattle Mariners vs Los Angeles Dodgers @ 10pm et  [USA HD] (update 16-04-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, USA Baseball: Seattle Mariners vs Los Angeles Dodgers @ 10pm et  [USA SD] (update 16-04-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
@@ -60,8 +60,14 @@ rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplaye
 #EXTINF:-1, NHL: Ottawa vs Montreal @ 7pm et  [CA 1080p] (update 16-04-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
+#EXTINF:-1, NHL: Ottawa vs Montreal @ 7pm et  [EU HQ] (update 16-04-2015)
+rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
+
 #EXTINF:-1, NHL: NY islanders vs Washington Capitols @ 7pm et [USA HD] (update 16-04-2015)
 rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+
+#EXTINF:-1, NHL: NY islanders vs Washington Capitols @ 7pm et [EU HD] (update 16-04-2015)
+rtmp://w2.vmnode.pw:2195/live playpath=elite23 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite23.php live=true timeout=20
 
 #EXTINF:-1, NHL: Chicago vs Nashville @ 8:30pm et [USA HD] (update 16-04-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20

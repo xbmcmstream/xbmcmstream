@@ -6,28 +6,28 @@ rtmp://142.4.216.205/live/ch1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf
 #EXTINF:-1, Channel 2 UEFA Champions League  PSG v Barcelona CA**SD** (update 16-04-2015)
 rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/2.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 3 UEFA Champions League  PSG v Barcelona EU**480p** (update 16-04-2015)
+#EXTINF:-1, Channel 3 NBA Washington Wizards @ Cleveland Cavaliers EU**480p** (update 16-04-2015)
 rtmp://95.211.214.201/live/channel3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4 UEFA Champions League  PSG v Barcelona EU**720p** (update 16-04-2015)
+#EXTINF:-1, Channel 4 NHL Playoffs New York Islanders @ Washington Capitals EU**720p** (update 16-04-2015)
 rtmp://95.211.214.201/live/channel4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 UEFA Champions League  FC Porto v Bayern Munich EU**480p** (update 16-04-2015)
+#EXTINF:-1, Channel 5 WWE NXT EU**480p** (update 16-04-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 6 UEFA Champions League  FC Porto v Bayern Munich EU**720p** (update 16-04-2015)
+#EXTINF:-1, Channel 6 NBA  Toronto Raptors v Charlotte Hornets EU**720p** (update 16-04-2015)
 rtmp://37.48.86.43/live/channel6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/6.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 7 NBA  Toronto Raptors v Charlotte Hornets EU**SD** (update 16-04-2015)
-rtmp://142.4.216.205/live/ch7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/7.php live=true timeout=20  token=WY846p1E1g15W7s
+#EXTINF:-1, Channel 7  Lucha Underground EU**SD** (update 16-04-2015)
+rtmp://95.211.214.201/live/channel7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/7.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 8 NBA  Memphis Grizzlies v Indiana Pacers EU**SD** (update 16-04-2015)
-rtmp://192.95.32.74/live/vip8v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
+#EXTINF:-1, Channel 8 NHL Playoffs Ottawa Senators @ Montreal Canadiens EU**SD** (update 16-04-2015)
+rtmp://37.48.86.43/live/channel8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 9 UEFA Champions League  FC Porto v Bayern Munich CA**SD** (update 16-04-2015)
+#EXTINF:-1, Channel 9 BT Sports 1 HD CA**SD** (update 16-04-2015)
 rtmp://142.4.216.205/live/ch9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 CNN CA **SD** (update 16-04-2015)
+#EXTINF:-1, Channel 10 NHL Playoffs Montreal vs Ottaw CA **SD** (update 16-04-2015)
 rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 11 (update 16-04-2015)
