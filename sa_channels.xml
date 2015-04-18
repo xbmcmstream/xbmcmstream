@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, Championship: Norwich - Middlesbrough FC [EU] (update 18-04-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
-
-#EXTINF:-1, Championship: Norwich - Middlesbrough FC [ENG] (update 18-04-2015)
+#EXTINF:-1, UK Sports Mix #2: Sky Sports 1  Live [EU] (update 18-04-2015)
 rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
 
-#EXTINF:-1, UK Sports Mix #1 Live [EU] (update 18-04-2015)
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+#EXTINF:-1, UK Sports Mix #3: Super Rugby Live [EU#2] (update 18-04-2015)
+rtmp://w4.vmnode.pw:2195/live playpath=elite36 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite36.php live=true timeout=20
 
-#EXTINF:-1, UK Sports Mix #2: Sky Sports 3  Live [EU] (update 18-04-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
-
-#EXTINF:-1, UK Sports Mix #3: Sky Sports 2 Cricket: West Indies vs England Live [EU#2] (update 18-04-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+#EXTINF:-1, OTHER LISTINGS WILL BE AVAILABLE BEFORE KICKOFF [EU#2] (update 18-04-2015)
+rtmp://w4.vmnode.pw:2195/live playpath=elite36 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite36.php live=true timeout=20
 
 #EXTINF:-1, Baseball: Boston Red Sox vs Baltimore Orioles LIVE [USA HD] (update 18-04-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
