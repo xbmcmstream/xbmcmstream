@@ -1,110 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1, Channel 1 Super Rugby Highlanders welcome Blues CA node **SD** (update 19-04-2015)
+#EXTINF:-1, Channel 1 Super Rugby Highlanders welcome Blues CA node **SD** (update 20-04-2015)
 rtmp://142.4.216.205/live/ch1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 2 Barclays Premier League Newcastle United vs Tottenham Hotspur CA node **720p** (update 19-04-2015)
+#EXTINF:-1, Channel 2 Barclays Premier League Newcastle United vs Tottenham Hotspur CA node **720p** (update 20-04-2015)
 rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/2.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 3 Barclays Premier League Crystal Palace vs West Bromwich Albion EU node **HD** (update 19-04-2015)
+#EXTINF:-1, Channel 3 Barclays Premier League Crystal Palace vs West Bromwich Albion EU node **HD** (update 20-04-2015)
 rtmp://95.211.214.201/live/channel3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4 Rugby EU Node **SD** (update 19-04-2015)
+#EXTINF:-1, Channel 4Moto GP EU Node **SD** (update 20-04-2015)
 rtmp://95.211.214.201/live/channel4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 Barclays Premier League Newcastle United vs Tottenham Hotspur EU Node **480p** (update 19-04-2015)
+#EXTINF:-1, Channel 5 Barclays Premier League Newcastle United vs Tottenham Hotspur EU Node **480p** (update 20-04-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 6 Indian Premier League Cricket Royal Challengers Bangalore vs Mumbai Indians EU node **SD** (update 19-04-2015)
+#EXTINF:-1, Channel 6 Indian Premier League Cricket Royal Challengers Bangalore vs Mumbai Indians EU node **SD** (update 20-04-2015)
 rtmp://37.48.86.43/live/channel6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/6.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 7 Offline EU node **720p** (update 19-04-2015)
+#EXTINF:-1, Channel 7 NBA Boston Celtics @ Cleveland Cavaliers EU node **HD** (update 20-04-2015)
 rtmp://95.211.214.201/live/channel7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/7.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 8 Serie A Cagliari vs Napoli EU node **HD** (update 19-04-2015)
+#EXTINF:-1, Channel 8 Serie A Cagliari vs Napoli EU node **HD** (update 20-04-2015)
 rtmp://37.48.86.43/live/channel8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 9 Sky Sports F1 CA node **HD** (update 19-04-2015)
+#EXTINF:-1, Channel 9 Sky Sports F1 CA node **HD** (update 20-04-2015)
 rtmp://142.4.216.205/live/ch9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 Sky Sports F1 CA node **SD** (update 19-04-2015)
+#EXTINF:-1, Channel 10 Sky Sports F1 CA node **SD** (update 20-04-2015)
 rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 11 FA Cup Aston Villa vs Liverpool EU node **720p** (update 19-04-2015)
+#EXTINF:-1, Channel 11 NHL - PREDATORS AT BLACKHAWKS EU node **HD** (update 20-04-2015)
 rtmp://37.48.86.45/live/channel11 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 12 FA Cup Aston Villa vs Liverpool EU node **480p** (update 19-04-2015)
+#EXTINF:-1, Channel 12 FA Cup Aston Villa vs Liverpool EU node **480p** (update 20-04-2015)
 rtmp://37.48.86.45/live/channel12 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/12.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 13 FA Liverpool game EU node **720p** (update 19-04-2015)
+#EXTINF:-1, Channel 13 FA Liverpool game EU node **720p** (update 20-04-2015)
 rtmp://37.48.86.45/live/channel13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/13.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 14 Barclays Premier League Newcastle United vs Tottenham Hotspur EU node **720p** (update 19-04-2015)
+#EXTINF:-1, Channel 14 Barclays Premier League Newcastle United vs Tottenham Hotspur EU node **720p** (update 20-04-2015)
 rtmp://37.48.86.45/live/channel14 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/14.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 15 offline EU node **BACKUP** (update 19-04-2015)
+#EXTINF:-1, Channel 15 offline EU node **BACKUP** (update 20-04-2015)
 rtmp://95.211.214.201/live/channel15 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/15.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 16 AMA Super Energy Motocross CA node **HD** (update 19-04-2015)
+#EXTINF:-1, Channel 16 AMA Super Energy Motocross CA node **HD** (update 20-04-2015)
 rtmp://142.4.216.205/live/ch16 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/16.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 17 Offline (update 19-04-2015)
+#EXTINF:-1, Channel 17 Offline (update 20-04-2015)
 rtmp://142.4.216.205/live/ch17 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/17.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 18 Offline (update 19-04-2015)
+#EXTINF:-1, Channel 18 Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/vip18v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/18.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 19 Offline (update 19-04-2015)
+#EXTINF:-1, Channel 19 Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/ch19 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/19.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, BOX Nation HD Offline (update 19-04-2015)
+#EXTINF:-1, BOX Nation HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/boxnation swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/beinsports.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, BT Sports 1 HD Offline (update 19-04-2015)
+#EXTINF:-1, BT Sports 1 HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/bt1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Senta Ireland Offline (update 19-04-2015)
+#EXTINF:-1, Senta Ireland Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/senta swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports 1 HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports 1 HD Offline (update 20-04-2015)
 rtmp://37.48.86.45/live/channel1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports 2 HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports 2 HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/sky2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports 3 HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports 3 HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/sky3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports 4 HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports 4 HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/sky4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports 5 HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports 5 HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/sky5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Sports News HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Sports News HD Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/skynews swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Comedy Central Offline (update 19-04-2015)
+#EXTINF:-1, Comedy Central Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/cc swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnuk.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, CNN HD Offline (update 19-04-2015)
+#EXTINF:-1, CNN HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/cnn swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/raceuk.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Fox HD Offline (update 19-04-2015)
+#EXTINF:-1, Fox HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/foxhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/atrace.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Racing UK Offline (update 19-04-2015)
+#EXTINF:-1, Racing UK Offline (update 20-04-2015)
 rtmp://192.95.32.74/live/uk swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/eeesports.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Disney xD HD Offline (update 19-04-2015)
+#EXTINF:-1, Disney xD HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/disneyxd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/disneyxd.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Sky Movie Comedy Central HD Offline (update 19-04-2015)
+#EXTINF:-1, Sky Movie Comedy Central HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/skymovie swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/historychannel.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Animal Planet HD Offline (update 19-04-2015)
+#EXTINF:-1, Animal Planet HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/animalplanet swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ap.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, National Geographic HD Offline (update 19-04-2015)
+#EXTINF:-1, National Geographic HD Offline (update 20-04-2015)
 rtmp://192.99.19.130/live/natgeo swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ng.php live=true timeout=20  token=WY846p1E1g15W7s
 
