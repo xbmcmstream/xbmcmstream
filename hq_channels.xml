@@ -45,7 +45,7 @@ rtmp://37.48.86.45/live/channel14 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash
 #EXTINF:-1, Channel 15 offline EU node **BACKUP** (update 21-04-2015)
 rtmp://95.211.214.201/live/channel15 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/15.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 16 offline CA node **HD** (update 21-04-2015)
+#EXTINF:-1, Channel 16 NBA New Orleans Pelicans @ Golden State Warriors CA node **HD** (update 21-04-2015)
 rtmp://142.4.216.205/live/ch16 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/16.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 17 Offline (update 21-04-2015)
