@@ -9,13 +9,13 @@ rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf
 #EXTINF:-1, Channel 3 offline EU node **HD** (update 21-04-2015)
 rtmp://95.211.214.201/live/channel3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4Sky Sports News EU Node **SD** (update 21-04-2015)
+#EXTINF:-1, Channel 4 2nd test West Indies Vs England EU Node **SD** (update 21-04-2015)
 rtmp://95.211.214.201/live/channel4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 offline EU Node **480p** (update 21-04-2015)
+#EXTINF:-1, Channel 5 offline EU node **480p** (update 21-04-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 6 ESPN HD UK (update 21-04-2015)
+#EXTINF:-1, Channel 6 Sky Sports News EU node **SD** (update 21-04-2015)
 rtmp://37.48.86.43/live/channel6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/6.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 7 offline (update 21-04-2015)
@@ -27,7 +27,7 @@ rtmp://37.48.86.43/live/channel8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.
 #EXTINF:-1, Channel 9 offline CA node **HD** (update 21-04-2015)
 rtmp://142.4.216.205/live/ch9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 EURO Sports CA node **SD** (update 21-04-2015)
+#EXTINF:-1, Channel 10 World Championship Snooker CA node **SD** (update 21-04-2015)
 rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 11 offline EU node **HD** (update 21-04-2015)
