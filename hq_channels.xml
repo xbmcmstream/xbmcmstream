@@ -9,7 +9,7 @@ rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf
 #EXTINF:-1, Channel 3offline EU node **HD** (update 22-04-2015)
 rtmp://95.211.214.201/live/channel3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4 2nd test West Indies Vs England EU Node **SD** (update 22-04-2015)
+#EXTINF:-1, Channel 4offline EU Node **SD** (update 22-04-2015)
 rtmp://95.211.214.201/live/channel4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 5offline EU node **480p** (update 22-04-2015)
@@ -39,102 +39,162 @@ rtmp://37.48.86.45/live/channel12 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash
 #EXTINF:-1, Channel 13offline EU node **720p** (update 22-04-2015)
 rtmp://37.48.86.45/live/channel13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/13.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 14offline EU node **720p** (update 22-04-2015)
+#EXTINF:-1, Channel 14 2nd test West Indies Vs England EU node **480p** (update 22-04-2015)
 rtmp://37.48.86.45/live/channel14 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/14.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, TSN 1 HD online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/tsn1hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/tsn1.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, TSN 2 HD online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/tsn2hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn2.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/tsn2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn2.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, TSN 3 HD online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/tsn3hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn3.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/tsn3.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn3.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, TSN 4 HD online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/tsn4hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn4.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/tsn4.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn4.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, TSN 5 HD online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/tsn5hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn5.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/tsn5.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/tsn5.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, BOX Nation SD Online (update 22-04-2015)
 rtmp://95.211.214.201:1935/live/bxnsd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bxnsd.php live=true timeout=20  token=WY846p1E1g15W7s
 
+#EXTINF:-1, BOX Nation SD Online (Backup Channel) (update 22-04-2015)
+rtmp://46.105.96.198/send/bxn.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bxnsdb.php live=true timeout=20  token=WY846p1E1g15W7s
+
 #EXTINF:-1, BOX Nation HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/bxnhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bxnhd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/bxnhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bxnhd.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, BT Sports 1 HD Online (update 22-04-2015)
 rtmp://95.211.214.201:1935/live/bt1hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, BT Sports 1 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/bt1sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bt1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/bt1sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bt1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, BT Sports 2 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/bt2hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/bt2hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, BT Sports 2 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/bt2sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bt2.php live=true timeout=20  token=WY846p1E1g15W7s
-
-#EXTINF:-1, Sky Sports 1 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss1sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/bt2sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/bt2.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 1 HD Online (update 22-04-2015)
-rtmp://95.211.214.201/live/ss1hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/ss1hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Sky Sports 1 SD Online (update 22-04-2015)
+rtmp://46.105.96.198:1935/send/ss1sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 2 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss2hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss2hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 2 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss2sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss2.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss2sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss2.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 3 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss3hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss3hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky3.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 3 SD Online (update 22-04-2015)
 rtmp://95.211.214.201:1935/live/ss3sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss3.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 4 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss4hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss4hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 4 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss4sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss4.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss4sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss4.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 5 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss5hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss5hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports 5 SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ss5sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss5.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ss5sd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ss5.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports News HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ssnewshd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ssnewshd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports News SD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ssnewssd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ssnews.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/ssnewssd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ssnews.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, ESPN UK HD / Sky Sports F1 HD Online (Is as is) (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/espnukhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnuk.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/espnukhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnuk.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sky Sports F1 SD Online (F1 Backup Channel) (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/ssf1b swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ssf1.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198:1935/send/f1.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/ssf1.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, ESPN UK SD Online (Backup Channel) (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/espnukb swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnuksd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/espnuk.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnuksd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, At The Races SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/atr.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/atr.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Racing UK HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/racingukhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/raceuk.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/racingukhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/raceuk.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Racing UK SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/racinguksd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/raceuksd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Racing UK SD Online (Backup Channel) (update 22-04-2015)
+rtmp://46.105.96.198/send/racinguk.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/rukb.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sportsnet World HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/snworldhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/snwhd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/snworldhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/snwhd.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Sportsnet 360 HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/sn360hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sn360hd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/sn360hd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sn360hd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Setanta Ireland SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/setir.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/setantair.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Premier Sports HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/premsportshd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/disneyxd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/premierhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/disneyxd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Premier Sports HD Online (Backup Channel) (update 22-04-2015)
+rtmp://46.105.96.198/send/premsportshd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/premb.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Premier Sports SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/premiersd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/premsd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Premier Sports SD Online (Backup Channel) (update 22-04-2015)
+rtmp://46.105.96.198/send/premsportssd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/premsdb.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Premier Sports SD Online (2nd Backup Channel) (update 22-04-2015)
+rtmp://46.105.96.198/send/premb.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/premsdbb.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Big Ten Network HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/btnhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btnhd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/btnhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btnhd.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, NASA TV HD Online (update 22-04-2015)
-rtmp://95.211.214.201:1935/live/nasatvhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nasatvhd.php live=true timeout=20  token=WY846p1E1g15W7s
+rtmp://46.105.96.198/send/nasatvhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nasatvhd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, NASA TV SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/nasatvsd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nasatvsd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, WWE Network HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/wwe.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/wwe.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Fox Sports 1 HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/fox1.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/fs1.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Fox Sports 2 HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/fox2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/fs2.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Euro Sports 1 Online (update 22-04-2015)
+rtmp://46.105.96.198/send/euro1.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/euro1.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, Euro Sports 2 Online (update 22-04-2015)
+rtmp://46.105.96.198/send/euro2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/euro2.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, ESPN USA HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/espnusa.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espnu.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, ESPN 2 HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/espn2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/espn2.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, NBC Sports Network HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/nbcsn.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nbcsn.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, NFL Network HD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/nflhd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nflhd.php live=true timeout=20  token=WY846p1E1g15W7s
+
+#EXTINF:-1, NFL Network SD Online (update 22-04-2015)
+rtmp://46.105.96.198/send/nflsd swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/nflsd.php live=true timeout=20  token=WY846p1E1g15W7s
 
