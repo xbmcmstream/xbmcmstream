@@ -6,8 +6,44 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 26-04-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
-#EXTINF:-1, MLS : Orlando City SC v Toronto FC [EU] (update 26-04-2015)
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+#EXTINF:-1, SPFL : Dundee United v Celtic[EU] (update 26-04-2015)
+rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
+
+#EXTINF:-1, EPL: Man U vs Everton [EU #720p] (update 26-04-2015)
+rtmp://62.4.24.97:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
+
+#EXTINF:-1, EPL: Man U vs Everton [USA #720p] (update 26-04-2015)
+rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, EPL: Man U vs Everton [EU#2 720p] (update 26-04-2015)
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+
+#EXTINF:-1, EPL: Man U vs Everton [EU# 540p] (update 26-04-2015)
+rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
+
+#EXTINF:-1, EPL: Man U vs Everton [EU#2 540p] (update 26-04-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [EU 1080p] (update 26-04-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [CA 1080p] (update 26-04-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [EU #720p] (update 26-04-2015)
+rtmp://62.4.24.97:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [USA #720p] (update 26-04-2015)
+rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [EU#2 720p] (update 26-04-2015)
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [EU# 540p] (update 26-04-2015)
+rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
+
+#EXTINF:-1, EPL: Arsenal vs Chelsea [EU#2 540p] (update 26-04-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
 #EXTINF:-1, Baseball: Dodgers vs Padres @ 8:40pm et [USA 720p] (update 26-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
@@ -44,6 +80,9 @@ rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplaye
 
 #EXTINF:-1, NBA Playoffs: Memphis @ Portland @ 10:30pm et (ESPN) [USA#2 SD] (update 26-04-2015)
 rtmp://207.244.76.209:2195/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+
+#EXTINF:-1, MLS : Orlando City SC v Toronto FC [EU] (update 26-04-2015)
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
 #EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [CA HQ] (update 26-04-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
