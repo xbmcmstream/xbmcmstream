@@ -1,26 +1,71 @@
 #EXTM3U
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card (Including Early Prelims) [EU HQ] (update 26-04-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+#EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [USA#1 720p] (update 26-04-2015)
+rtmp://54.145.207.166/live playpath=e1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/e1.php live=true timeout=20
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card (Including Early Prelims) [CDN HQ] (update 26-04-2015)
-http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
-
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [EU HD] (update 26-04-2015)
-rtmp://w11.vmnode.pw:2195/live playpath=elite53 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite53.php live=true timeout=20
-
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [EU SD] (update 26-04-2015)
+#EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [EU#1 720p] (update 26-04-2015)
 rtmp://62.4.24.97:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [CDN HD] (update 26-04-2015)
-http://hls35.livestreamingcdn.com/livecdn625_9/myStream.sdp/playlist
+#EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [EU#2 540p] (update 26-04-2015)
+rtmp://w3.vmnode.pw:2195/live playpath=elite44 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite44.php live=true timeout=20
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [CDN SD] (update 26-04-2015)
-http://hls35.livestreamingcdn.com/livecdn625_8/myStream.sdp/playlist
+#EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [EU#3 540p] (update 26-04-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [USA HD] (update 26-04-2015)
-rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+#EXTINF:-1, HBO Boxing: Klitschko vs. Jennings [USA#1 720p] (update 26-04-2015)
+rtmp://54.145.207.166/live playpath=boxing swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/boxing.php live=true timeout=20
 
-#EXTINF:-1, UFC 185: Pettis vs. dos Anjos Full Card [USA SD] (update 26-04-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+#EXTINF:-1, HBO Boxing: Klitschko vs. Jennings [EU#1 720p] (update 26-04-2015)
+rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
+
+#EXTINF:-1, HBO Boxing: Klitschko vs. Jennings EU#2 540p] (update 26-04-2015)
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+
+#EXTINF:-1, HBO Boxing: Klitschko vs. Jennings [USA#2 540p] (update 26-04-2015)
+rtmp://w14.vmnode.pw:2195/live playpath=elite14 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite14.php live=true timeout=20
+
+#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 26-04-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
+#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 26-04-2015)
+rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 26-04-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 26-04-2015)
+rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 26-04-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, Channel 6: FOX Sports 1 247 [US SD] (update 26-04-2015)
+rtmp://104.250.102.67:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+
+#EXTINF:-1, Channel 7: NHL Network [US HD] (update 26-04-2015)
+rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+
+#EXTINF:-1, Channel 8: WWE 24/7 [US SD] (update 26-04-2015)
+rtmp://skystreams.info/live playpath=wwe swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
+
+#EXTINF:-1, Channel 9: ESPN 1 [USA HQ] (update 26-04-2015)
+rtmp://207.244.76.209:2195/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+
+#EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 26-04-2015)
+rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 26-04-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 26-04-2015)
+rtmp://104.250.102.68:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
+
+#EXTINF:-1, Channel 12: UK Sports Mix[EU] (update 26-04-2015)
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+
+#EXTINF:-1, Channel 13: TBS [USA SD] (update 26-04-2015)
+rtmp://104.250.102.68:2195/live playpath=tbs swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tbs.php live=true timeout=20
+
+#EXTINF:-1, Channel 14: ESPN U [USA SD] (update 26-04-2015)
+rtmp://104.250.102.68:1935/live playpath=espnu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espnu.php live=true timeout=20
 
