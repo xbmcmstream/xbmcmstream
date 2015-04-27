@@ -69,7 +69,7 @@ rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 27-04-2015)
 rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Channel 3: NBA TV (24/7) [USA HD] (update 27-04-2015)
+#EXTINF:-1, Channel 3: NFL Network Draft Coverage [USA HD] (update 27-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
 #EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 27-04-2015)
