@@ -6,6 +6,24 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 27-04-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
+#EXTINF:-1, WWE EXTREME RULES PPV [USA 720p] (update 27-04-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, WWE EXTREME RULES PPV [USA#2 720p] (update 27-04-2015)
+rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+
+#EXTINF:-1, WWE EXTREME RULES PPV [EU 720p] (update 27-04-2015)
+rtmp://62.4.24.98:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
+
+#EXTINF:-1, WWE EXTREME RULES PPV [EU#2 720p] (update 27-04-2015)
+rtmp://62.4.24.97:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
+
+#EXTINF:-1, WWE EXTREME RULES PPV [EU 540p] (update 27-04-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, WWE EXTREME RULES PPV [CA 540p] (update 27-04-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
 #EXTINF:-1, Baseball: Dodgers vs Padres @ 4:40pm et [USA 720p] (update 27-04-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
