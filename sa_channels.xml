@@ -3,10 +3,7 @@
 #EXTINF:-1, UK Sports Mix #1 [EU] (update 02-05-2015)
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, Mayweather vs Pacquiao Weigh Ins [CA 1080p] (update 02-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Mayweather vs Pacquiao Weigh Ins [USA HQ] (update 02-05-2015)
+#EXTINF:-1, Mayweather vs Pacquiao Weigh Ins [USA 1080p] (update 02-05-2015)
 rtmp://104.250.102.68:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
 
 #EXTINF:-1, NFL Draft Coverage [USA HD] (update 02-05-2015)
@@ -15,8 +12,11 @@ rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplay
 #EXTINF:-1, NBA Playoffs: Atlanta @ Brooklyn @ 8pm et[USA 720p] (update 02-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
+#EXTINF:-1, NBA Playoffs: Atlanta @ Brooklyn @ 8pm et[USA SD] (update 02-05-2015)
+rtmp://207.244.76.209:2195/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/espn.php live=true timeout=20
+
 #EXTINF:-1, NHL Playoffs: Montreal vs Tampa bay [CA 1080p] (update 02-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+rtmp://104.250.102.68:1935/live playpath=elite12 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite12.php live=true timeout=20
 
 #EXTINF:-1, NHL Playoffs: Montreal vs Tampa bay [USA HD] (update 02-05-2015)
 rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
