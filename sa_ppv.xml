@@ -4,7 +4,7 @@
 rtmp://54.145.207.166/live playpath=e1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/e1.php live=true timeout=20
 
 #EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [EU#1 720p] (update 02-05-2015)
-rtmp://62.4.24.97:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
+rtmp://212.83.158.231:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
 
 #EXTINF:-1, UFC 186: Johnson vs. Horiguchi Full Card [EU#2 540p] (update 02-05-2015)
 rtmp://w3.vmnode.pw:2195/live playpath=elite44 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite44.php live=true timeout=20
