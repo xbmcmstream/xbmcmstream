@@ -18,6 +18,9 @@ rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jw
 #EXTINF:-1, UEFA: Juventus vs Real Madrid Live [USA 360p] (update 06-05-2015)
 rtmp://104.250.102.67:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
 
+#EXTINF:-1, HLN TV (For Now, Whatever is on) [USA SD] (update 06-05-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
 #EXTINF:-1, NBA PLAYOFFS (8 & 10:30pm ET [Semi Finals]) [USA HD] (update 06-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
