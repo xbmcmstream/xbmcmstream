@@ -15,11 +15,14 @@ rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, Baseball: Dodgers Games [USA HD] (update 07-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, ESPN 1 Live [US SD] (update 07-05-2015)
+#EXTINF:-1, ESPN 1: Mets vs Orioles [US SD] (update 07-05-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
-#EXTINF:-1, NHL Playoffs: Montreal vs Tampa Bay @ 730pm et [USA HQ] (update 07-05-2015)
+#EXTINF:-1, Baseball: Diamondbacks/ROCKIES Home Covg [USA HQ] (update 07-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, NHL Playoffs: Montreal vs Tampa Bay @ 730pm et [CA 1080p] (update 07-05-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
 #EXTINF:-1, NHL Playoffs: Rangers @ Capitols @ 730pm et [USA 720p] (update 07-05-2015)
 rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
@@ -62,4 +65,7 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 
 #EXTINF:-1, Channel 13: TV/Sports Mix (Almost Always Online) [USA HQ] (update 07-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, Channel 14: MMA 247: Brock Lesnar Pack (Almost Always Online) [USA SD (Coming soon in HD)] (update 07-05-2015)
+rtmp://skystreams.info:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 

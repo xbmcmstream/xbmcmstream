@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, HBO: Canelo vs Kirkland 247 EP #1 (update 07-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/CaneloKirkland247.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/CaneloKirkland247.mp4
+
 #EXTINF:-1, PPV Boxing: Mayweather vs Pacquiao (update 07-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/MayweatherPacquiao.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/MayweatherPacquiao.mp4
 
