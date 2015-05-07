@@ -6,34 +6,28 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 07-05-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
-#EXTINF:-1, Elite Ch 13: TV/Sports Mix [USA HQ] (update 07-05-2015)
+#EXTINF:-1, CH#12 TV/Sports Mix: Investigation Discovery [USA HQ] (update 07-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
 #EXTINF:-1, NBA PLAYOFFS (8 & 10:30pm ET [Semi Finals]) [USA HD] (update 07-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
+#EXTINF:-1, Baseball: Angels vs Mariners Replay [USA HD] (update 07-05-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
 #EXTINF:-1, Baseball: Dodgers Games [USA HD] (update 07-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, ESPN 1: Mets vs Orioles [US SD] (update 07-05-2015)
+#EXTINF:-1, ESPN 1 [US SD] (update 07-05-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, Baseball: Diamondbacks/ROCKIES Home Covg [USA HQ] (update 07-05-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
-
-#EXTINF:-1, NHL Playoffs: Montreal vs Tampa Bay @ 730pm et [CA 1080p] (update 07-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NHL Playoffs: Rangers @ Capitols @ 730pm et [USA 720p] (update 07-05-2015)
-rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, NHL Playoffs: Rangers @ Capitols @ 730pm et [CA 1080p] (update 07-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 07-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 07-05-2015)
+#EXTINF:-1, > Channel 2: NBA Covg [USA HD] (update 07-05-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, Channel 3: MLB NETWORK [USA HD] (update 07-05-2015)
 rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 07-05-2015)
@@ -57,15 +51,15 @@ rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplaye
 #EXTINF:-1, Channel 9-B: ESPN 1 [USA HQ] (update 07-05-2015)
 rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Channel 11: NBC Golf [USA HD] (update 07-05-2015)
+#EXTINF:-1, Channel 10: NBC Golf [USA HD] (update 07-05-2015)
 rtmp://104.250.102.68:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
-#EXTINF:-1, Channel 12: UK Sports Mix [EU] (update 07-05-2015)
+#EXTINF:-1, Channel 11: UK Sports Mix [EU] (update 07-05-2015)
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, Channel 13: TV/Sports Mix (Almost Always Online) [USA HQ] (update 07-05-2015)
+#EXTINF:-1, Channel 12: TV/Sports Mix (Almost Always Online) [USA HQ] (update 07-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
-#EXTINF:-1, Channel 14: MMA 247: Brock Lesnar Pack (Almost Always Online) [USA SD (Coming soon in HD)] (update 07-05-2015)
+#EXTINF:-1, Channel 13: MMA 247: Brock Lesnar Pack (Almost Always Online) [USA SD (Coming soon in HD)] (update 07-05-2015)
 rtmp://skystreams.info:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
