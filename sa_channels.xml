@@ -6,13 +6,22 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 08-05-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
-#EXTINF:-1, CH#12 TV/Sports Mix: Investigation Discovery [USA HQ] (update 08-05-2015)
+#EXTINF:-1, CH#12 TV/Sports Mix: History Channel (-Pawn Stars-) [USA HQ] (update 08-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
-#EXTINF:-1, NBA PLAYOFFS (8 & 10:30pm ET [Semi Finals]) [USA HD] (update 08-05-2015)
+#EXTINF:-1, NHL PLAYOFFS [USA HD] (update 08-05-2015)
+rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, NHL PLAYOFFS [USA SD] (update 08-05-2015)
+rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
+
+#EXTINF:-1, Boxing | Golden Boy Live: Manuel Avila vs. Erik Ruiz @ 10pm et [USA HD] (update 08-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
-#EXTINF:-1, Baseball: Angels vs Mariners Replay [USA HD] (update 08-05-2015)
+#EXTINF:-1, Boxing | Golden Boy Live: Manuel Avila vs. Erik Ruiz @ 10pm et[USA SD] (update 08-05-2015)
+rtmp://104.250.102.67:1935/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+
+#EXTINF:-1, Baseball: Giants/Marlins @ 10:15pm et [USA HD] (update 08-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, Baseball: Dodgers Games [USA HD] (update 08-05-2015)
@@ -60,6 +69,6 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, Channel 12: TV/Sports Mix (Almost Always Online) [USA HQ] (update 08-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
-#EXTINF:-1, Channel 13: MMA 247: Brock Lesnar Pack (Almost Always Online) [USA SD (Coming soon in HD)] (update 08-05-2015)
+#EXTINF:-1, Channel 13: MMA 247: Jon Jones Pack (Almost Always Online) [USA SD (Coming soon in HD)] (update 08-05-2015)
 rtmp://skystreams.info:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
