@@ -6,7 +6,7 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2 [EU] (update 08-05-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
-#EXTINF:-1, CH#12 TV/Sports Mix: History Channel (-Pawn Stars-) [USA HQ] (update 08-05-2015)
+#EXTINF:-1, CH#12 TV/Sports Mix: HLN Channel (-Forensic Files Crime TV-) [USA HQ] (update 08-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=espn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
 #EXTINF:-1, NHL PLAYOFFS [USA HD] (update 08-05-2015)
