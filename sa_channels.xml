@@ -9,44 +9,20 @@ rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, EURO SPORT LIVE [EU] (update 10-05-2015)
 rtmp://w16.vmnode.pw:2195/live playpath=elite55 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite55.php live=true timeout=20
 
-#EXTINF:-1, CANELO REPLAY [USA HD] (update 10-05-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+#EXTINF:-1, ESPN 1 [USA HD] (update 10-05-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, UFC FIGHT NIGHT [Amazon USA HD] (update 10-05-2015)
-rtmp://54.162.29.111/live playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
-
-#EXTINF:-1, UFC FIGHT NIGHT [USA HD] (update 10-05-2015)
-rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
-
-#EXTINF:-1, UFC FIGHT NIGHT [USA#2 HD] (update 10-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
-
-#EXTINF:-1, UFC FIGHT NIGHT [EU HQ] (update 10-05-2015)
-rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
-
-#EXTINF:-1, UFC FIGHT NIGHT [EU#2 HQ] (update 10-05-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
-
-#EXTINF:-1, NHL PLAYOFFS: Montreal vs Tampa Bay [CA 1080p] (update 10-05-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NHL PLAYOFFS: Montreal vs Tampa Bay [USA 1080p] (update 10-05-2015)
-rtmp://54.162.29.111/live playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
-
-#EXTINF:-1, NHL PLAYOFFS [USA HD] (update 10-05-2015)
+#EXTINF:-1, NBCSN F1 Live [USA HD] (update 10-05-2015)
 rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
-#EXTINF:-1, NHL PLAYOFFS [USA SD] (update 10-05-2015)
-rtmp://skystreams.info:1935/live playpath=nhltv swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nhltv.php live=true timeout=20
-
-#EXTINF:-1, NBA Playoffs [USA HD] (update 10-05-2015)
+#EXTINF:-1, NBA TV [USA HD] (update 10-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
-#EXTINF:-1, NBA Playoffs [USA SD] (update 10-05-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+#EXTINF:-1, MLB TV [USA HD] (update 10-05-2015)
+rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
-#EXTINF:-1, Baseball: Angels vs Astros [USA HD] (update 10-05-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+#EXTINF:-1, TSN Sports Mix [Europe 1080p] (update 10-05-2015)
+rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
 
 #EXTINF:-1, ESPN 1 [US SD] (update 10-05-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
