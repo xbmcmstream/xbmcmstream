@@ -558,6 +558,24 @@ rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.128.ESPN.HDTV.XviD-FreaK.part1
 #EXTINF:-1, UFC 127: Penn vs Fitch Main Card (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/ufc127.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufc127
 
+#EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd1.mp4
+
+#EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd2.mp4
+
+#EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 3 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd3.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd3.mp4
+
+#EXTINF:-1, UFC 14: Showdown Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc14-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc14-cd1.mp4
+
+#EXTINF:-1, UFC 14: Showdown Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc14-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc14-cd2.mp4
+
+#EXTINF:-1, UFC 14: Showdown Part 3 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc14-cd3.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc14-cd3.mp4
+
 #EXTINF:-1, UFC 13: Belfort vs Tank Abbott Part 1 (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc13-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc13-cd1.mp4
 

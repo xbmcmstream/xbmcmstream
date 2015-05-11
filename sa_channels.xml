@@ -51,7 +51,7 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, MLS : New York Red Bulls v New York City FC [EU] (update 11-05-2015)
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, ESPN 1 [USA HD] (update 11-05-2015)
+#EXTINF:-1, ESPNEWS [USA HD] (update 11-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, NBCSN F1 Live [USA HD] (update 11-05-2015)
@@ -66,10 +66,7 @@ rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/j
 #EXTINF:-1, TSN Sports Mix [Europe 1080p] (update 11-05-2015)
 rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
 
-#EXTINF:-1, Baseball: Orioles vs Yankess @ 12:10pm et [USA 720p] (update 11-05-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, ROOT SPORTS Baseball: Rockies vs Dodgers @ 4:10pm et [USA 540p] (update 11-05-2015)
+#EXTINF:-1, ROOT SPORTS Colorado [USA 540p] (update 11-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
 #EXTINF:-1, Baseball: Astros vs Angels @ 4:10pm et [USA 720p] (update 11-05-2015)
@@ -80,6 +77,9 @@ rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/j
 
 #EXTINF:-1, NBA Playoffs [USA 720p] (update 11-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, NBA Playoffs [CA 720p] (update 11-05-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
 #EXTINF:-1, NBA Playoffs [Europe 1080p] (update 11-05-2015)
 rtmp://w16.vmnode.pw:2195/live playpath=elite55 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite55.php live=true timeout=20
