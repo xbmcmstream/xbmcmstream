@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, RFA vs Legacy Super Fights (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/RFA.vs.Legacy.2015.05.08.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/RFA.vs.Legacy.2015.05.08.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, UFC Fight Night 65 (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.65.WEB.DL.x264.Fight-BB.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.Fight.Night.65.WEB.DL.x264.Fight-BB.mp4
 
@@ -558,14 +561,41 @@ rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.128.ESPN.HDTV.XviD-FreaK.part1
 #EXTINF:-1, UFC 127: Penn vs Fitch Main Card (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/ufc127.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufc127
 
+#EXTINF:-1, UFC 20: Battle For The Gold Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc20-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc20-cd1.mp4
+
+#EXTINF:-1, UFC 20: Battle For The Gold Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc20-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc20-cd2.mp4
+
+#EXTINF:-1, UFC 19: Young Guns Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc19-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc19-cd1.mp4
+
+#EXTINF:-1, UFC 19: Young Guns Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc19-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc19-cd2.mp4
+
+#EXTINF:-1, UFC 18: Road to the Heavyweight Title Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc18-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc18-cd1.mp4
+
+#EXTINF:-1, UFC 18: Road to the Heavyweight Title Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc18-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc18-cd2.mp4
+
+#EXTINF:-1, UFC 17: Frank Shamrock vs Jeremy Horn Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc17-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc17-cd1.mp4
+
+#EXTINF:-1, UFC 17: Frank Shamrock vs Jeremy Horn Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc17-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc17-cd2.mp4
+
+#EXTINF:-1, UFC 16: Frank Shamrock vs Igor Zinoviev Part 1 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc16-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc16-cd1.mp4
+
+#EXTINF:-1, UFC 16: Frank Shamrock vs Igor Zinoviev Part 2 (update 11-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc16-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc16-cd2.mp4
+
 #EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 1 (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd1.mp4
 
 #EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 2 (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd2.mp4
-
-#EXTINF:-1, UFC 15: Tank Abbott vs Maruice Smith Part 3 (update 11-05-2015)
-rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc15-cd3.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc15-cd3.mp4
 
 #EXTINF:-1, UFC 14: Showdown Part 1 (update 11-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/Ufc14-cd1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Ufc14-cd1.mp4
