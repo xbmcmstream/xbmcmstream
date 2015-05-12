@@ -1,35 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1, Channel 1 Offline **SD** (update 12-05-2015)
+#EXTINF:-1, Channel 1 U21s Manchaester United v Manchester City **SD** (update 13-05-2015)
 rtmp://142.4.216.205/live/ch1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 2 Sky Sports 1 Backup **SD** (update 12-05-2015)
+#EXTINF:-1, Channel 2 UEFA Champions League  Bayern Munich v Barcelona Backup **SD** (update 13-05-2015)
 rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/2.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 3 Offline **HD** (update 12-05-2015)
+#EXTINF:-1, Channel 3 Offline **HD** (update 13-05-2015)
 rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4 Offline **HD** (update 12-05-2015)
+#EXTINF:-1, Channel 4 Offline **HD** (update 13-05-2015)
 rtmp://142.4.216.205/live/channel9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 NBA Golden State Warriors @ Memphis Grizzlies **480p** (update 12-05-2015)
+#EXTINF:-1, Channel 5 UEFA Champions League Bayern Munchen vs Barcelona **480p** (update 13-05-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 6 Sky Sports News Backup **SD** (update 12-05-2015)
+#EXTINF:-1, Channel 6 Sky Sports News Backup **SD** (update 13-05-2015)
 rtmp://37.48.86.43/live/channel6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/6.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 7 Offline *720p** (update 12-05-2015)
+#EXTINF:-1, Channel 7 Offline *720p** (update 13-05-2015)
 rtmp://37.48.86.45/live/channel11 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/7.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 8 Offline **HD** (update 12-05-2015)
+#EXTINF:-1, Channel 8 Offline **HD** (update 13-05-2015)
 rtmp://37.48.86.43/live/channel8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 9 NBA Golden State Warriors @ Memphis Grizzlies **720p** (update 12-05-2015)
+#EXTINF:-1, Channel 9 UEFA Champions League Bayern Munchen vs Barcelona **720p** (update 13-05-2015)
 rtmp://142.4.216.205/live/channel9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 WWE Monday Night RAW **720p** (update 12-05-2015)
+#EXTINF:-1, Channel 10 Offline **SD** (update 13-05-2015)
 rtmp://37.48.86.45/live/channel11 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 11 WWE Monday Night RAW **HD** (update 12-05-2015)
+#EXTINF:-1, Channel 11 UEFA Champions League  Bayern Munich v Barcelona Backup **SD** (update 13-05-2015)
 rtmp://95.211.214.201/live/ch13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
 
