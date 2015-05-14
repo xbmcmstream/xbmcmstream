@@ -12,7 +12,7 @@ rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.sw
 #EXTINF:-1, Channel 4 Offline **HD** (update 14-05-2015)
 rtmp://142.4.216.205/live/channel9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 UEFA Champions League  Real Madrid v Juventus **480p** (update 14-05-2015)
+#EXTINF:-1, Channel 5 NBA Playoffs **480p** (update 14-05-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
 #EXTINF:-1, Channel 6 Indian Premier League Cricket  Kings XI Punjab v Royal Challengers Bangalore **SD** (update 14-05-2015)
@@ -30,6 +30,6 @@ rtmp://142.4.216.205/live/channel9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flas
 #EXTINF:-1, Channel 10 Offline **SD** (update 14-05-2015)
 rtmp://37.48.86.45/live/channel11 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 11 UEFA Champions League  Real Madrid v Juventus Backup **SD** (update 14-05-2015)
+#EXTINF:-1, Channel 11 NHL Playoffs Washington Capitals @ New York Rangers **HD** (update 14-05-2015)
 rtmp://95.211.214.201/live/ch13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
 
