@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, UFC Fight Night 66: Edgar vs Faber (update 17-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.66.Edgar.vs.Faber.2015.05.16.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.Fight.Night.66.Edgar.vs.Faber.2015.05.16.HDTV.x264-NWCHD.mp4
+
 #EXTINF:-1, RFA vs Legacy Super Fights (update 17-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/RFA.vs.Legacy.2015.05.08.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/RFA.vs.Legacy.2015.05.08.HDTV.x264-NWCHD.mp4
 
