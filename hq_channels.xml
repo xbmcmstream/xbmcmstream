@@ -1,35 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1, Channel 1 T20 Essex Eagles Vs Surrey **SD** (update 17-05-2015)
+#EXTINF:-1, Channel 1 Championship play-off quarter-final Rangers v Queen of the South **SD** (update 17-05-2015)
 rtmp://142.4.216.205/live/ch1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 2 Sky Bet Championship play-off semi-finals Norwich City Vs Ipswich Town **SD** (update 17-05-2015)
+#EXTINF:-1, Channel 2 BT Sports 1 **SD** (update 17-05-2015)
 rtmp://142.4.216.205/live/ch2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/2.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 3 Barclays Premier League West Ham United v Everton **SD** (update 17-05-2015)
+#EXTINF:-1, Channel 3 La Liga Atletico Madrid v Barcelona **480p** (update 17-05-2015)
 rtmp://142.4.216.205/live/ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/3.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 4 Barclays Premier League West Ham United v Everton Backup **HD** (update 17-05-2015)
+#EXTINF:-1, Channel 4 La Liga Atletico Madrid v Barcelona **720p** (update 17-05-2015)
 rtmp://37.48.86.43/live/channel8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 5 Barclays Premier League Liverpool vs Crystal Palace **480p** (update 17-05-2015)
+#EXTINF:-1, Channel 5 Barclays Premier League Manchester United vs Arsenal **480p** (update 17-05-2015)
 rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 6 Indian Premier League Cricket  Kings XI Punjab v Chennai Super Kings **SD** (update 17-05-2015)
+#EXTINF:-1, Channel 6 Indian Premier League Cricket  Sunrisers Hyderabad v Mumbai Indians **SD** (update 17-05-2015)
 rtmp://37.48.86.43/live/channel6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/6.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 7 HBO Boxing *480p** (update 17-05-2015)
+#EXTINF:-1, Channel 7 Offline *480p** (update 17-05-2015)
 rtmp://95.211.214.201/live/ch12 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/7.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 8 Serie A Internazionale vs Juventus **HD** (update 17-05-2015)
+#EXTINF:-1, Channel 8 Offline **HD** (update 17-05-2015)
 rtmp://95.211.214.201/live/ch8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/8.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 9 Barclays Premier League Liverpool vs Crystal Palace **720p** (update 17-05-2015)
+#EXTINF:-1, Channel 9 Barclays Premier League Manchester United vs Arsenal **720p** (update 17-05-2015)
 rtmp://142.4.216.205/live/channel9 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/9.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 10 NHL Playoffs NY Rangers - Tampa Bay **HD** (update 17-05-2015)
+#EXTINF:-1, Channel 10 La Liga Atletico Madrid v Barcelona Backup **HD** (update 17-05-2015)
 rtmp://37.48.86.45/live/channel13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20  token=WY846p1E1g15W7s
 
-#EXTINF:-1, Channel 11 Barclays Premier League Liverpool vs Crystal Palace **HD** (update 17-05-2015)
-rtmp://95.211.214.201/live/ch13 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
+#EXTINF:-1, Channel 11 Barclays Premier League Manchester United vs Arsenal **480p** (update 17-05-2015)
+rtmp://37.48.86.45/live/channel11 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/11.php live=true timeout=20  token=WY846p1E1g15W7s
 
