@@ -654,3 +654,54 @@ rtmp://skystreams.info/vod playpath=mp4:/ufc/ufc.2.no.way.out.dvdrip.xvid-kyr.mp
 #EXTINF:-1, UFC 1: Ken Shamrock vs Royce Gracie (update 18-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ufc/ufc.1.the.beginning.dvdrip.xvid-kyr.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=ufc1
 
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1993 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1993-04-30-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1993-04-30-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1993 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1993-04-30-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1993-04-30-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1994 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1994-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1994-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1994 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1994-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1994-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1995 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1995-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1995-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1995 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1995-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1995-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1996 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1996-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1996-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1996 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1996-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1996-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1997 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1997-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1997-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1997 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1997-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1997-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1998 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1998-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1998-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1998 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1998-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1998-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1999 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1999-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1999-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 1999 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/1999-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/1999-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 2000 Part 1 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/2000-CD1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/2000-CD1.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 2000 Part 2 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/2000-CD2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/2000-CD2.mp4
+
+#EXTINF:-1, K1 World Grand Prix: April 30th, 2000 Part 3 (update 18-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/k1/2000-CD3.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/k1/2000-CD3.mp4
+
