@@ -6,9 +6,6 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #1 B Channel (if your lagging Click Here) [EU 480p] (update 24-05-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
 
-#EXTINF:-1, IBF Super Middleweight : James DeGale v Andre Dirrell [EU HD] (update 24-05-2015)
-rtmp://212.83.158.232:1935/live playpath=elite57 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite57.php live=true timeout=20
-
 #EXTINF:-1, UK Sports Mix #2: [EU 540p] (update 24-05-2015)
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=true timeout=20
 
@@ -32,45 +29,6 @@ rtmp://w14.vmnode.pw:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwp
 
 #EXTINF:-1, Baseball: All Dodgers Games [USA 720p] (update 24-05-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Main Card Only [USA HD] (update 24-05-2015)
-rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
-
-#EXTINF:-1, UFC 187: Main Card Only [USA HD] (update 24-05-2015)
-rtmp://w13.vmnode.pw/live playpath=elite13 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite13b.php live=true timeout=20
-
-#EXTINF:-1, UFC 187: Main Card Only [Canada HD] (update 24-05-2015)
-rtmp://104.250.102.68/live playpath=elite13 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite13.php live=true timeout=20
-
-#EXTINF:-1, UFC 187: Main Card Only [USA New York HD] (update 24-05-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, New York HD] (update 24-05-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, New York SD] (update 24-05-2015)
-rtmp://104.250.102.67:1935/live playpath=elite8 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite8.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, Florida SD] (update 24-05-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA#2, Florida SD] (update 24-05-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=elite42 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite42.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU HD] (update 24-05-2015)
-rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#2 HD] (update 24-05-2015)
-rtmp://212.83.158.231:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#3 HD] (update 24-05-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU SD] (update 24-05-2015)
-rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#2 SD] (update 24-05-2015)
-rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 24-05-2015)
 rtmp://w3.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
@@ -106,7 +64,7 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 rtmp://w3.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
 
 #EXTINF:-1, Channel 11: MMA 247: Countdown to UFC 187 [USA HD] (update 24-05-2015)
-rtmp://w14.vmnode.pw:2195/live playpath=elite4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
+rtmp://5.79.75.129:2195/live4 playpath=channel16b swfUrl=http://supremecater.com/player/src.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite4.php live=true timeout=20
 
 #EXTINF:-1, UK Sports Mix #3:[EU 540p] (update 24-05-2015)
 rtmp://w2.vmnode.pw:1935/live playpath=elite24 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite24.php live=true timeout=20

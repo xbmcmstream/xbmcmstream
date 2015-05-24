@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, UFC 187: Johnson vs Cormier Main Card (Only 3 Fights) (update 24-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/ufc187.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/ufc187.mp4
+
+#EXTINF:-1, UFC 187: Johnson vs Cormier Prelims (update 24-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.187.Prelims.720p.WEB-DL.x264.Fight-BB.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.187.Prelims.720p.WEB-DL.x264.Fight-BB.mp4
+
 #EXTINF:-1, UFC Fight Night 66: Edgar vs Faber (update 24-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/UFC.Fight.Night.66.Edgar.vs.Faber.2015.05.16.HDTV.x264-NWCHD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/UFC.Fight.Night.66.Edgar.vs.Faber.2015.05.16.HDTV.x264-NWCHD.mp4
 
