@@ -37,7 +37,7 @@ rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwp
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 28-05-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, Channel 2: MLB NETWORK [USA HD] (update 28-05-2015)
 rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
