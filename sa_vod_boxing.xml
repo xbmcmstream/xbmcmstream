@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Spike TV: Amir Khan vs Chris Algieri (UNCUT, 720p) (update 30-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/KhanAlgieri2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/KhanAlgieri2.mp4
+
 #EXTINF:-1, HBO: GGG vs Willie Monroe Jr (update 30-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/HBO.Gennady.Golovkin.vs.Willie.Monroe.Jr.2015.05.16.WEBRip.x264-WD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/HBO.Gennady.Golovkin.vs.Willie.Monroe.Jr.2015.05.16.WEBRip.x264-WD.mp4
 
