@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Sky Box PPV: Brook vs Gavin (UNCUT, 720p) (update 31-05-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/BrookGavin.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/BrookGavin.mp4
+
 #EXTINF:-1, Spike TV: Amir Khan vs Chris Algieri (UNCUT, 720p) (update 31-05-2015)
 rtmp://skystreams.info/vod playpath=mp4:/ppvs/KhanAlgieri2.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/KhanAlgieri2.mp4
 
