@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, WWE Elimination Chamber 2015 (update 01-06-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/WWE.Elimination.Chamber.2015.PPV.WEB-DL.3000k.x264-WD.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/WWE.Elimination.Chamber.2015.PPV.WEB-DL.3000k.x264-WD.mp4
+
 #EXTINF:-1, WWF Mick Foley Hard Knocks & Cheap Pops - DVD 2001 (update 01-06-2015)
 rtmp://skystreams.info/vod playpath=mp4:/dvds/Mick.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/dvds/Mick.mp4
 
