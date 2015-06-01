@@ -1,40 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, UFC 187 Main Card Only [USA HD] (update 01-06-2015)
-rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+#EXTINF:-1, WWE Elimination Chamber [USA HD] (update 01-06-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite44 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite44.php live=true timeout=20
 
-#EXTINF:-1, UFC 187: Main Card Only [USA HD] (update 01-06-2015)
-rtmp://w13.vmnode.pw/live playpath=elite13 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite13b.php live=true timeout=20
+#EXTINF:-1, WWE Elimination Chamber [CA HD] (update 01-06-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
-#EXTINF:-1, UFC 187: Main Card Only [Canada HD] (update 01-06-2015)
-rtmp://104.250.102.68/live playpath=elite13 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite13.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, New York HD] (update 01-06-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite5 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite5.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, New York SD] (update 01-06-2015)
-rtmp://104.250.102.67:1935/live playpath=elite8 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite8.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA, Florida SD] (update 01-06-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [USA#2, Florida SD] (update 01-06-2015)
-rtmp://w3.vmnode.pw:2195/live playpath=elite42 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite42.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU HD] (update 01-06-2015)
+#EXTINF:-1, WWE Elimination Chamber [EU HD] (update 01-06-2015)
 rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
 
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#2 HD] (update 01-06-2015)
-rtmp://212.83.158.231:1935/live playpath=elite54 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite54.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#3 HD] (update 01-06-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
-
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU SD] (update 01-06-2015)
+#EXTINF:-1, WWE Elimination Chamber [EU SD] (update 01-06-2015)
 rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
 
-#EXTINF:-1, UFC 187 Prelims & Main Card [EU#2 SD] (update 01-06-2015)
+#EXTINF:-1, WWE Elimination Chamber [EU#2 SD] (update 01-06-2015)
 rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, WWE Elimination Chamber [USA SD] (update 01-06-2015)
+rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 01-06-2015)
 rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
