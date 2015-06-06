@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, Fedor Emelianenko: The Baddest Man on the Planet (update 06-06-2015)
+rtmp://skystreams.info/vod playpath=mp4:/dvds/FedorTheBaddestManOnThePlanet.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/dvds/FedorTheBaddestManOnThePlanet.mp4
+
+#EXTINF:-1, Glory 22 - Super Fight Series [720p] (update 06-06-2015)
+rtmp://skystreams.info/vod playpath=mp4:/ppvs/Glory.22.Super.Fight.Series.720p.WEB-DL.x264.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/ppvs/Glory.22.Super.Fight.Series.720p.WEB-DL.x264.mp4
+
 #EXTINF:-1, UFC Ultimate 100 Fights - Part 1 (update 06-06-2015)
 rtmp://skystreams.info/vod playpath=mp4:/dvds/UFCUltimate100-Part1.mp4 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/ondemand.php?file=/dvds/UFCUltimate100-Part1.mp4
 
