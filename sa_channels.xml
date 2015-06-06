@@ -1,83 +1,119 @@
 #EXTM3U
 
-#EXTINF:-1, Sky Sports 1 [USA 720p] (update 06-06-2015)
-rtmp://104.250.102.68:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
+#EXTINF:-1, Sky Sports 1 [EU Testing] (update 07-06-2015)
+rtmp://212.83.158.231:1935/live playpath=skys1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/skys1.php live=true timeout=20
 
-#EXTINF:-1, UK Sports Mix #1: [EU 480p] (update 06-06-2015)
+#EXTINF:-1, Sky Sports 2 [EU Testing] (update 07-06-2015)
+rtmp://212.83.158.231:1935/live playpath=skys2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/skys2.php live=true timeout=20
+
+#EXTINF:-1, BT Sports 1 [EU Testing] (update 07-06-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+
+#EXTINF:-1, UK Sports Mix #1: [EU 480p] (update 07-06-2015)
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, UK Sports Mix #2: [EU 480p] (update 06-06-2015)
+#EXTINF:-1, UK Sports Mix #2: [EU 480p] (update 07-06-2015)
 rtmp://w16.vmnode.pw:2195/live playpath=elite55 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite55.php live=true timeout=20
 
-#EXTINF:-1, Channel 7: USA/Canada Sports Mix #2: FOX Sports 1 ALL WEEKEND! [USA SD [Coming Soon in HD]] (update 06-06-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [CA 1080p] (update 06-06-2015)
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [CA 1080p] (update 07-06-2015)
 rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/new/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 
-#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [USA 1080p] (update 06-06-2015)
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [USA 1080p] (update 07-06-2015)
 rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
 
-#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU 1080p] (update 06-06-2015)
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU 1080p] (update 07-06-2015)
 rtmp://212.83.158.231:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsneu.php live=true timeout=20
 
-#EXTINF:-1, FS1: Rangers/Royals on FS1 @ 2pm et [USA SD [Coming Soon in HD]] (update 06-06-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU 720p] (update 07-06-2015)
+rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
 
-#EXTINF:-1, NBCSN: Belmont Stakes Coverage [USA HD] (update 06-06-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU#2 720p] (update 07-06-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, Channel 3: MLB NETWORK [USA HD] (update 06-06-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Baseball: Angels vs Yankees @ 9pm et[USA 720p] (update 06-06-2015)
-rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
-
-#EXTINF:-1, Baseball: Dodgers vs Cardinals @ 10pm et [USA 720p] (update 06-06-2015)
-rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
-
-#EXTINF:-1, UFC + More listings today coming soon, check twitter for INFO! [USA HD] (update 06-06-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 06-06-2015)
-rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
-
-#EXTINF:-1, > Channel 2: NBA Covg [USA HD] (update 06-06-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
-
-#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 06-06-2015)
-rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 06-06-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/new/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, Channel 6: The Best Wrestling DVD's [USA HD] (update 06-06-2015)
-rtmp://104.250.102.68:1935/live playpath=wwe247 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247b.php live=true timeout=20
-
-#EXTINF:-1, Channel 7: USA/Canada Sports Mix #2 [USA SD [Coming Soon in HD]] (update 06-06-2015)
-rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
-
-#EXTINF:-1, Channel 8: NBC Golf [USA HD] (update 06-06-2015)
-rtmp://104.250.102.68:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
-
-#EXTINF:-1, Channel 9: UK Sports Mix [EU] (update 06-06-2015)
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU#1 540p] (update 07-06-2015)
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
 
-#EXTINF:-1, Channel 10: TV/Sports Mix (Offline until June 30th, Sorry) [USA HD] (update 06-06-2015)
-rtmp://w3.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+#EXTINF:-1, UEFA Champions League Final: Juventus v Barcelona [EU#2 540p] (update 07-06-2015)
+rtmp://w6.vmnode.pw:1935/live playpath=elite21 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite21.php live=true timeout=20
 
-#EXTINF:-1, Channel 11: MMA 247 Channel: Top 200 MMA Bouts! (WEC, StrikeForce, Pride, K1, UFC, & MORE) [USA HD] (update 06-06-2015)
+#EXTINF:-1, FIFA Women's World Cup: Canada vs China [EU 540p] (update 07-06-2015)
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+
+#EXTINF:-1, FIFA Women's World Cup: New Zealand vs Netherlands [EU 540p] (update 07-06-2015)
+rtmp://w2.vmnode.pw:1935/live playpath=elite34 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite34.php live=true timeout=20
+
+#EXTINF:-1, Channel 7: USA/Canada Sports Mix #2: FOX Sports 1 ALL WEEKEND! [USA SD [Coming Soon in HD]] (update 07-06-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, PBC on NBC Guerrero vs. Martinez [USA 540p] (update 07-06-2015)
 rtmp://skystreams.info:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
 
-#EXTINF:-1, UK Sports Mix #3: Cricket [EU 540p] (update 06-06-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
+#EXTINF:-1, PBC on NBC Guerrero vs. Martinez [EU 540p] (update 07-06-2015)
+rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
 
-#EXTINF:-1, Formula 1 Racing Practice #3 LIVE [USA HD] (update 06-06-2015)
+#EXTINF:-1, FS1: Rangers/Royals on FS1 @ 2pm et [USA SD [Coming Soon in HD]] (update 07-06-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, NBCSN: Belmont Stakes Coverage [EU HD] (update 07-06-2015)
+rtmp://w9.vmnode.pw:1935/live playpath=elite38 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite38.php live=true timeout=20
+
+#EXTINF:-1, NBCSN: Belmont Stakes Coverage [USA HD] (update 07-06-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, NBCSN: Belmont Stakes Coverage [USA#2 HD] (update 07-06-2015)
+rtmp://104.250.102.68/live playpath=elite13 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite13.php live=true timeout=20
+
+#EXTINF:-1, Channel 3: MLB NETWORK [USA HD] (update 07-06-2015)
+rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Baseball: Angels vs Yankees @ 9pm et[USA 720p] (update 07-06-2015)
+rtmp://104.250.102.67:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
+
+#EXTINF:-1, Baseball: Dodgers vs Cardinals @ 10pm et [USA 720p] (update 07-06-2015)
 rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, Formula 1 Racing Qualifying [EU HQ] (update 06-06-2015)
+#EXTINF:-1, UFC + Boxing+ More listings today coming soon, check twitter for INFO! [USA HD] (update 07-06-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 07-06-2015)
+rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
+#EXTINF:-1, > Channel 2: NBA Covg [USA HD] (update 07-06-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, Channel 4: NBC Sports Network (24/7) [US HD] (update 07-06-2015)
+rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+
+#EXTINF:-1, Channel 5: TSN 1-5 Mix [CA HD] (update 07-06-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/new/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, Channel 6: The Best Wrestling DVD's [USA HD] (update 07-06-2015)
+rtmp://104.250.102.68:1935/live playpath=wwe247 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247b.php live=true timeout=20
+
+#EXTINF:-1, Channel 7: USA/Canada Sports Mix #2 [USA SD [Coming Soon in HD]] (update 07-06-2015)
+rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
+
+#EXTINF:-1, Channel 8: NBC Golf [USA HD] (update 07-06-2015)
+rtmp://104.250.102.68:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
+
+#EXTINF:-1, Channel 9: UK Sports Mix [EU] (update 07-06-2015)
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20
+
+#EXTINF:-1, Channel 10: TV/Sports Mix (Offline until June 30th, Sorry) [USA HD] (update 07-06-2015)
+rtmp://w3.vmnode.pw:1935/live playpath=elite2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite43.php live=true timeout=20
+
+#EXTINF:-1, Channel 11: MMA 247 Channel: Top 200 MMA Bouts! (WEC, StrikeForce, Pride, K1, UFC, & MORE) [USA HD] (update 07-06-2015)
+rtmp://skystreams.info:1935/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite9.php live=true timeout=20
+
+#EXTINF:-1, UK Sports Mix #3: Cricket [EU 540p] (update 07-06-2015)
 rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
 
-#EXTINF:-1, Channel 12: Boxing 247 Channel: Mayweather/Canelo/Tyson/Khan/Etc Best Fights [USA HD] (update 06-06-2015)
+#EXTINF:-1, Formula 1 Racing Practice #3 LIVE [USA HD] (update 07-06-2015)
+rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
+
+#EXTINF:-1, Formula 1 Racing Qualifying [EU HQ] (update 07-06-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=true timeout=20
+
+#EXTINF:-1, Channel 12: Boxing 247 Channel: Mayweather/Canelo/Tyson/Khan/Etc Best Fights [USA HD] (update 07-06-2015)
 rtmp://skystreams.info:1935/live playpath=boxing swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/boxing.php live=true timeout=20
 
