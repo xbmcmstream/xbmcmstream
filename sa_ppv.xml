@@ -4,7 +4,7 @@
 rtmp://w14.vmnode.pw:1935/live playpath=elite44 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite44.php live=true timeout=20
 
 #EXTINF:-1, WWE Elimination Chamber [CA HD] (update 07-06-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
+rtmp://w3.vmnode.pw:1935/live playpath=elite41 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite41.php live=true timeout=20
 
 #EXTINF:-1, WWE Elimination Chamber [EU HD] (update 07-06-2015)
 rtmp://212.83.158.232:1935/live playpath=elite56 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite56.php live=true timeout=20
