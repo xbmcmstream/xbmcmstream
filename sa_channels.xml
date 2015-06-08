@@ -39,19 +39,19 @@ rtmp://212.83.158.231:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwpla
 #EXTINF:-1, NBA Finals Game 2: Cleveland Cavaliers @ Golden State Warriors [USA HD] (update 08-06-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
+#EXTINF:-1, NBA Finals Game 2: Cleveland Cavaliers @ Golden State Warriors [USA#2 HD] (update 08-06-2015)
+rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+
 #EXTINF:-1, NBA Finals Game 2: Cleveland Cavaliers @ Golden State Warriors [EU HD] (update 08-06-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
 
-#EXTINF:-1, NASCAR Sprint Cup Series Axalta 'We Paint Winners' 400 [USA HD] (update 08-06-2015)
-rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+#EXTINF:-1, NBA Finals Game 2: Cleveland Cavaliers @ Golden State Warriors [EU 540p] (update 08-06-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
 
-#EXTINF:-1, NASCAR Sprint Cup Series Axalta 'We Paint Winners' 400 [EU HD] (update 08-06-2015)
-rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
-
-#EXTINF:-1, Channel 7: USA/Canada Sports Mix #2: FOX Sports 1 ALL WEEKEND! [USA SD [Coming Soon in HD]] (update 08-06-2015)
+#EXTINF:-1, NBA Finals Game 2: Cleveland Cavaliers @ Golden State Warriors [USA 480p] (update 08-06-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
-#EXTINF:-1, Baseball: Angels vs Yankees @ 1pm et[USA 720p] (update 08-06-2015)
+#EXTINF:-1, MLS: San Jose vs FC Dallars [USA HQ] (update 08-06-2015)
 rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
 #EXTINF:-1, Baseball: Dodgers vs Cardinals @ 8pm et [USA 720p] (update 08-06-2015)
