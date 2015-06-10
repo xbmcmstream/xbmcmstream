@@ -15,25 +15,31 @@ rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwp
 #EXTINF:-1, UK Sports Mix #2: [EU 480p] (update 10-06-2015)
 rtmp://w16.vmnode.pw:2195/live playpath=elite55 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite55.php live=true timeout=20
 
-#EXTINF:-1, NBA Finals Game #3 [CA 1080p] (update 10-06-2015)
-rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/new/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
-
-#EXTINF:-1, NBA Finals Game #3 [USA 540p] (update 10-06-2015)
+#EXTINF:-1, NHL NETWORK [USA 540p] (update 10-06-2015)
 rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
 
-#EXTINF:-1, NBA Finals Game #3 [USA#2 540p] (update 10-06-2015)
-rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
-
-#EXTINF:-1, NBA Finals Game #3 [EU 540p] (update 10-06-2015)
-rtmp://w11.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
-
-#EXTINF:-1, NBA Finals Game #3 [EU#2 540p] (update 10-06-2015)
+#EXTINF:-1, NHL NETWORK [EU 540p] (update 10-06-2015)
 rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
 
-#EXTINF:-1, Baseball: Dodgers ToNIGHT [USA 720p] (update 10-06-2015)
+#EXTINF:-1, NHL Finals Game #3 [CA 1080p] (update 10-06-2015)
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/new/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+
+#EXTINF:-1, NHL Finals Game #3 [USA 540p] (update 10-06-2015)
+rtmp://w14.vmnode.pw:1935/live playpath=elite1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite1.php live=true timeout=20
+
+#EXTINF:-1, NHL Finals Game #3 [USA#2 540p] (update 10-06-2015)
+rtmp://skystreams.info:1935/live playpath=elite7 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite7.php live=true timeout=20
+
+#EXTINF:-1, NHL Finals Game #3 [EU 540p] (update 10-06-2015)
+rtmp://w11.vmnode.pw:1935/live playpath=bt1 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/bt1.php live=true timeout=20
+
+#EXTINF:-1, NHL Finals Game #3 [EU#2 540p] (update 10-06-2015)
+rtmp://w10.vmnode.pw:1935/live playpath=elite50 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite50.php live=true timeout=20
+
+#EXTINF:-1, Baseball: Dodgers Tonight [USA 720p] (update 10-06-2015)
 rtmp://104.250.102.68:1935/live playpath=elite11 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite11.php live=true timeout=20
 
-#EXTINF:-1, Baseball Network [USA HD] (update 10-06-2015)
+#EXTINF:-1, Baseball Network: Yankees/Nationals @ 1pm et [USA HD] (update 10-06-2015)
 rtmp://104.250.102.68:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=20
 
 #EXTINF:-1, Channel 1: USA/Canada Sports Mix [USA HD] (update 10-06-2015)
