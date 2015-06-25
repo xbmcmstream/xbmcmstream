@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, NBA Playoffs [USA SD] (update 25-06-2015)
+#EXTINF:-1, NBA Playoffs [USA SD] (update 26-06-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
-#EXTINF:-1, Channel 7: ESPN 1 [USA SD [Coming Soon in HD]] (update 25-06-2015)
+#EXTINF:-1, Channel 7: ESPN 1 [USA SD [Coming Soon in HD]] (update 26-06-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
