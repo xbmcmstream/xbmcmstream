@@ -1,29 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [EU, London 1080p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [EU, London 1080p] (update 29-06-2015)
 rtmp://52.17.14.204/live playpath=elite1080 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite1080eu.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, West 1080p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, West 1080p] (update 29-06-2015)
 rtmp://52.8.61.50/live playpath=elite1080 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite1080usa.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, East 1080p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, East 1080p] (update 29-06-2015)
 rtmp://54.158.217.66/live playpath=elite1080 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite1080usa2.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA East 720p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA East 720p] (update 29-06-2015)
 rtmp://54.158.173.158/live playpath=elite720 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite720usa.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, West 720p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, West 720p] (update 29-06-2015)
 rtmp://52.8.122.194/live playpath=elite720 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite720cali.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [EU #2, Ireland 720p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [EU #2, Ireland 720p] (update 29-06-2015)
 rtmp://52.16.243.98/live playpath=elite720eu swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite720eu.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, East 540P] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA, East 540P] (update 29-06-2015)
 rtmp://54.242.122.151/live playpath=elite540usa swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite540usa.php live=true timeout=20
 
-#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA West 540p] (update 28-06-2015)
+#EXTINF:-1, Boxing PPV: Mayweather vs Pacquiao [USA West 540p] (update 29-06-2015)
 rtmp://54.242.122.151/live playpath=elite540oregon swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/MayPac/elite540oregon.php live=true timeout=20
 
-#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 28-06-2015)
+#EXTINF:-1, Channel 10: ESPN 2 [US SD] (update 29-06-2015)
 rtmp://skystreams.info/live playpath=espn2 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://sportsaccess.se/forum/misc.php?page=espn2 live=true timeout=20
 
