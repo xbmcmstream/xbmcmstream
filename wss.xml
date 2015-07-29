@@ -6,6 +6,9 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/1.ts?.coms|User-age
 #EXTINF:-1,  Sky Sport 1HD German Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/88.ts?.coms|User-agent=Lavf/55.19.104
 
+#EXTINF:-1,  BT Sport 1 Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/10.ts?.coms|User-agent=Lavf/55.19.104
+
 #EXTINF:-1,  British Euro Sport 1 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/12.ts?.coms|User-agent=Lavf/55.19.104
 
@@ -17,6 +20,9 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/2.ts?.coms|User-age
 
 #EXTINF:-1,  Sky Sport 2HD German Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/89.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  BT Sport 2 Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/11.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 2 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/13.ts?.coms|User-agent=Lavf/55.19.104
@@ -33,6 +39,9 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/38.ts?.coms|User-ag
 #EXTINF:-1,  Arena Sport 1 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/54.ts?.coms|User-agent=Lavf/55.19.104
 
+#EXTINF:-1,  Fox Sports 1 Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/59.ts?.coms|User-agent=Lavf/55.19.104
+
 #EXTINF:-1,  SkySports 4 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/4.ts?.coms|User-agent=Lavf/55.19.104
 
@@ -41,6 +50,9 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/39.ts?.coms|User-ag
 
 #EXTINF:-1,  Arena Sport 2 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/55.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  Fox Sports 2 Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/60.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 5 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/5.ts?.coms|User-agent=Lavf/55.19.104
@@ -78,6 +90,12 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/7.ts?.coms|User-age
 #EXTINF:-1,  Sky Bundesliga HD5 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/42.ts?.coms|User-agent=Lavf/55.19.104
 
+#EXTINF:-1,  ESPN UK Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/14.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  ESPN UK Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/189.ts?.coms|User-agent=Lavf/55.19.104
+
 #EXTINF:-1,  Sport Klub 3 Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/68.ts?.coms|User-agent=Lavf/55.19.104
 
@@ -90,8 +108,20 @@ http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/52.ts?.coms|User-ag
 #EXTINF:-1,  Setanta Ireland Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/8.ts?.coms|User-agent=Lavf/55.19.104
 
+#EXTINF:-1,  ESPN USA Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/48.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  NFL Network Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/58.ts?.coms|User-agent=Lavf/55.19.104
+
 #EXTINF:-1,  NBC Sports Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/37.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  Box Nati (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/15.ts?.coms|User-agent=Lavf/55.19.104
+
+#EXTINF:-1,  ESPN 2 Channel  (update 29-07-2015)
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/49.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Premier Sports Channel  (update 29-07-2015)
 http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/9.ts?.coms|User-agent=Lavf/55.19.104
