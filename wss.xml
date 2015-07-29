@@ -1,665 +1,665 @@
 #EXTM3U
 
 #EXTINF:-1,  SkySports 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/1.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/1.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/1.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/1.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sport 1HD German Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/88.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/88.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sport 1HD German Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/88.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/88.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BT Sport 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt1xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt1xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BT Sport 1 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/1bt1.m3u8
+http://stream.ssh101.com/hls/1bt1.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/12.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/12.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/12.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/12.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/190.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/190.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/2.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/2.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/2.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/2.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sport 2HD German Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/89.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/89.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sport 2HD German Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/89.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/89.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BT Sport 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/13.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/13.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/13.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/13.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British Euro Sport 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/191.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/191.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/3.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/3.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/3.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/3.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/38.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/38.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/38.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/38.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/54.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/54.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/54.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/54.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Fox Sports 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=foxs1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=foxs1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/4.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/4.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/4.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/4.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/39.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/39.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/39.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/39.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/55.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/55.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/55.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/55.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Fox Sports 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=fox2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=fox2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/5.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/5.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports 5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/5.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/5.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/40.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/40.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/40.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/40.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/56.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/56.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/56.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/56.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/66.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/66.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/66.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/66.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/71.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/71.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports F1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/6.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/6.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkySports F1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/6.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/6.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/41.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/41.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/41.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/41.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/57.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/57.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Arena Sport 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/57.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/57.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/67.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/67.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/67.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/67.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/72.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/72.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky News Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/7.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/7.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky News Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/7.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/7.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/42.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/42.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Bundesliga HD5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/42.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/42.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ESPN UK Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ex1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ex1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/68.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/68.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/68.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/68.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Klub 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/73.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/73.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  At the Races Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/52.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/52.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  At the Races Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/52.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/52.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Setanta Ireland Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/8.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/8.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Setanta Ireland Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/8.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/8.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ESPN USA Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=espnux token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=espnux token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  NFL Network Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=nflx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=nflx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  NBC Sports Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/37.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/37.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  NBC Sports Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/37.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/37.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Box Nati (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live playpath=sboxn swfurl=http://prvservers.com/j/jwplayer.flash.swf token=#yw%tt#w@kku pageurl=http://prvservers.com/
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live playpath=sboxn swfurl=http://prvservers.com/j/jwplayer.flash.swf token=#yw%tt#w@kku pageurl=http://prvservers.com/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ESPN 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=espn2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=espn2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Premier Sports Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/9.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/9.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Premier Sports Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/9.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/9.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Premier Sports Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/149.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/149.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports Italy 1 HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/50.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/50.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports Italy 1 HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/50.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/50.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Pac 12 Network Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/138.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/138.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Pac 12 Network Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/138.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/138.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports Italy 2 HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/51.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/51.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports Italy 2 HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/51.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/51.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BTN Network Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/139.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/139.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BTN Network Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/139.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/139.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Racing UK Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/53.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/53.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Racing UK Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/53.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/53.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 1 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/31.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/31.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 1 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/31.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/31.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 2 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/36.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/36.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 2 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/36.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/36.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 3 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/32.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/32.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 3 France Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/32.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/32.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein USA Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/95.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/95.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein USA Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/95.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/95.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Max 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/93.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/93.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Max 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/93.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/93.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Max 5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/94.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/94.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Max 5 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/94.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/94.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 1HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/16.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/16.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 1HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/16.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/16.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 1HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/114.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/114.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 2HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/17.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/17.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 2HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/17.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/17.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 2HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/115.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/115.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 3HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/18.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/18.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 3HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/18.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/18.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 3HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/116.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/116.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 4HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/19.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/19.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 4HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/19.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/19.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 4HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/117.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/117.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 5HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/20.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/20.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 5HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/20.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/20.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 5HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/118.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/118.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 6HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/21.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/21.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 6HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/21.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/21.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 6HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/119.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/119.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 7HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/22.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/22.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 7HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/22.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/22.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 7HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/120.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/120.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 8HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/23.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/23.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 8HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/23.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/23.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 8HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/121.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/121.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 9HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/24.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/24.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 9HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/24.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/24.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 9HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/122.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/122.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 10HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/25.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/25.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 10HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/25.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/25.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 10HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/123.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/123.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 11HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/26.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/26.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 11HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/26.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/26.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 12HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/27.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/27.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Bein Sports 12HD Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/27.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/27.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 1 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/150.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/150.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 2 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/151.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/151.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 3 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/152.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/152.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 4 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/153.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/153.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 5 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/154.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/154.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 6 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/155.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/155.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 7 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/156.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/156.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 8 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/157.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/157.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 9 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/158.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/158.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 10 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/159.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/159.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 11 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/160.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/160.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 12 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/161.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/161.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 13 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/162.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/162.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 14 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/163.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/163.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 15 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/164.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/164.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 16 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/165.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/165.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 17 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/166.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/166.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 18 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/167.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/167.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 19 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/168.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/168.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 20 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/169.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/169.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 21 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/170.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/170.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 22 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/171.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/171.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 23 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/172.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/172.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 24 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/173.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/173.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 25 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/174.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/174.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 26 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/175.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/175.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 27 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/176.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/176.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 28 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/177.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/177.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 29 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/178.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/178.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1, Channel 30 (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/179.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/179.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Acti (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/110.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/110.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Acti (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/110.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/110.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Premiere Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/111.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/111.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Premiere Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/111.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/111.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Scifi&amp;Horror  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/112.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/112.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Scifi&amp;Horror  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/112.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/112.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Comedy Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/108.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/108.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Comedy Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/108.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/108.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Drama &amp; Romance Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/107.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/107.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Drama &amp; Romance Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/107.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/107.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Family Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/65.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/65.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Family Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/65.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/65.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Select Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/64.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/64.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SkyMovies Select Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/64.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/64.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/103.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/103.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/103.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/103.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/104.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/104.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/104.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/104.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/105.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/105.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 3 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/105.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/105.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/106.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/106.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  ITV 4 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/106.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/106.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BBC 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/101.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/101.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BBC 1 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/101.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/101.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BBC 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/102.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/102.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BBC 2 Channel  (update 29-07-2015)
-http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/102.ts?.coms
+http://s1.wssiptv.com/live/WSSiptv.com/he98fdui97w9769869t85/102.ts?.coms|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +4 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bn4s token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bn4s token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +8 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein8 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein8 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +12 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein12 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein12 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +5 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein5 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein5 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +9 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein9 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein9 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +6 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein6 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein6 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +10 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein10 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein10 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +7 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein7 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein7 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  BeIN Sports +11 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein11 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bein11 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 1 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03sky1.m3u8
+http://stream.ssh101.com/hls/03sky1.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SportsNet Ontario Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sno token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sno token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SportsNet World Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=snw token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.com
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=snw token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.com|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 3 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x3 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x3 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  SportsNet One Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sn1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sn1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Tv 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live1-rbi6c pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live1-rbi6c pageUrl=http://sharecast.to/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British EuroSport 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=euro1xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=euro1xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 4 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x4 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=x4 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 1 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi1.m3u8
+http://stream.ssh101.com/hls/03digi1.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 1 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi1.m3u8
+http://stream.ssh101.com/hls/03digi1.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Tv 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live2-bipmr pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live2-bipmr pageUrl=http://sharecast.to/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  British EuroSport 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=euro2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=euro2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 5 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sx55 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=sx55 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports 5 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/REAL1.m3u8
+http://stream.ssh101.com/hls/REAL1.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 2 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi2.m3u8
+http://stream.ssh101.com/hls/03digi2.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 2 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi2.m3u8
+http://stream.ssh101.com/hls/03digi2.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Tv 3 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live3-qszlx pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live3-qszlx pageUrl=http://sharecast.to/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sky Sports F1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ssf1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ssf1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 3 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi3.m3u8
+http://stream.ssh101.com/hls/03digi3.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Digi Sport 3 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03digi3.m3u8
+http://stream.ssh101.com/hls/03digi3.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Sport Tv Live Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live4-w04by pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share playpath=live4-w04by pageUrl=http://sharecast.to/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  TSN 1 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=tsn1x token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=tsn1x token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  TSN 2 Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=tsnx2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=tsnx2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Dolce Sport 2 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03dolce2.m3u8
+http://stream.ssh101.com/hls/03dolce2.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Dolce Sport 2 Channel  (update 29-07-2015)
-http://stream.ssh101.com/hls/03dolce2.m3u8
+http://stream.ssh101.com/hls/03dolce2.m3u8|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  WWE Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=wwenetwork412 swfUrl=http://mybeststream.xyz/MjJmN2I4MzNhY2NiNjdmMjAyN2U4M2Ni/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=wwenetwork412 swfUrl=http://mybeststream.xyz/MjJmN2I4MzNhY2NiNjdmMjAyN2U4M2Ni/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  Tensports Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ten token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ten token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
 #EXTINF:-1,  PTV Sport Channel  (update 29-07-2015)
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ptx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=ptx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=true timeout=15 pageUrl=http://www.flashtv.co|User-agent=Lavf/55.19.104
 
