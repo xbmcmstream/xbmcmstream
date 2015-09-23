@@ -1,47 +1,47 @@
 #EXTM3U
 
 #EXTINF:-1,  SkySports 1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=1
+http://www.mediatec.ie/xbmc/playlists/1.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  SkySports 1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=2
+http://www.mediatec.ie/xbmc/playlists/2.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  Sky Sport 1HD German Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=3
+http://www.mediatec.ie/xbmc/playlists/3.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  BT Sport 1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=4
+http://www.mediatec.ie/xbmc/playlists/4.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  BT Sport 1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=5
+http://www.mediatec.ie/xbmc/playlists/5.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  British Euro Sport 1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=6
+http://www.mediatec.ie/xbmc/playlists/6.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  SkySports 2 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=7
+http://www.mediatec.ie/xbmc/playlists/7.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  SkySports 2 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=8
+http://www.mediatec.ie/xbmc/playlists/8.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  Sky Sport 2HD German Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=9
+http://www.mediatec.ie/xbmc/playlists/9.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  BT Sport 2 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=10
+http://www.mediatec.ie/xbmc/playlists/10.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  BT Sport 2 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=11
+http://www.mediatec.ie/xbmc/playlists/11.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  British Euro Sport 2 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=12
+http://www.mediatec.ie/xbmc/playlists/12.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  SkySports 3 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=13
+http://www.mediatec.ie/xbmc/playlists/13.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  SkySports 3 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=14
+http://www.mediatec.ie/xbmc/playlists/14.ts|User-agent=MXPlayer/1.7.38
 
 #EXTINF:-1,  Sky Bundesliga HD1 Channel  (update 24-09-2015)
-http://www.mediatec.ie/xbmc/playlists/redir.php?pos=15
+http://www.mediatec.ie/xbmc/playlists/15.ts|User-agent=MXPlayer/1.7.38
 
