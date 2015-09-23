@@ -1,23 +1,28 @@
 <?php
 
-$a = $_SERVER['REQUEST_METHOD'];
+$req_method  = $_SERVER['REQUEST_METHOD'];
+$json_file = fopen('streams.json','r');
+$json = fread($json_file, filesize('streams.json'));
+fclose($json_file);
 
 
-$fp = fopen('bb.txt','a');
-fwrite($fp, $a."\n");
-fclose($fp);
+if(!empty($json)) $streams_array = json_decode($json, true);
 
-if($a == 'HEAD')
+if(empty($streams_array[$_GET['id']])) die('no stream id');
+
+
+if(strtolower($req_method) == 'head')
 {
-	header("Content-Type: video/mp2t");
-	header("Connection: close");
 	exit;
+//	header("Content-Type: video/mp2t");
+//	header("Connection: close");
+//	exit;
 }
 
 
-if(strtolower($a) != 'head')
+if(strtolower($req_method) != 'head')
 {
-	header("Location: http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/92.ts?1234");
+	header("Location: ". $streams_array[$_GET['id']]);
 }
 
 
