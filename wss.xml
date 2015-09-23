@@ -1,47 +1,47 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name=" SkySports 1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/92.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/92.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" SkySports 1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/193.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/193.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" Sky Sport 1HD German Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/75.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/75.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" BT Sport 1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/62.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/62.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" BT Sport 1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/195.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/195.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" British Euro Sport 1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/67.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/67.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" SkySports 2 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/93.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/93.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" SkySports 2 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/192.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/192.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" Sky Sport 2HD German Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/76.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/76.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" BT Sport 2 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/63.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/63.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" BT Sport 2 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/194.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/194.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" British Euro Sport 2 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/68.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/68.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" SkySports 3 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/94.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/94.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" SkySports 3 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/191.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/191.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
 #EXTINF:0 tvg-name=" Sky Bundesliga HD1 Channel  (update 23-09-2015")
-http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/77.ts?1234|User-agent=MXPlayer/1.7.38|URLENCODE(connection-timeout=1)
+http://s1.wssiptv.com:8000/live/WSSiptv.com/illilililIIIIilivwvwwwwwvw/77.ts?1234|User-agent=MXPlayer/1.7.38|connection-timeout=1
 
